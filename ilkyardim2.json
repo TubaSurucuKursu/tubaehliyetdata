@@ -1,0 +1,202 @@
+[
+ {
+  "Question": "\"- Bir el alına yerleştirilir.\n\n- Diğer elin iki parmağı çene kemiğinin üzerine yerleştirilir.\n\n- Alından bastırılıp, çeneden kaldırılarak baş geriye doğru itilir.\n\nKazazedenin hava yolunu açmak için, uygulama tekniği verilen pozisyon aşağıdakilerden hangisidir?",
+  "A": "Şok pozisyonu\n",
+  "B": "Yarı oturuş pozisyonu\n",
+  "C": "Baş geri-çene yukarı pozisyonu\n",
+  "D": "Yarı yüzükoyun-Yan pozisyon",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Baş geri-çene yukarı pozisyonu\n"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi ilk yardımın ABC'si içinde yer almaz?\n",
+  "A": "Kırıkların tespit edilmesi\n",
+  "B": "Dolaşımın değerlendirilmesi\n",
+  "C": "Solunumun değerlendirilmesi\n",
+  "D": "Hava yolu açıklığının değerlendirilmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Kırıkların tespit edilmesi\n"
+ },
+ {
+  "Question": "İlk yardımın ABC'si olarak kabul edilen uygulamalardan \"B\" neyi ifade etmektedir?\n",
+  "A": "Vücut ısısının düşürülmesini\n",
+  "B": "Solunumun değerlendirilmesini\n",
+  "C": "Kan dolaşımının değerlendirilmesini\n",
+  "D": "Hava yolu açıklığının değerlendirilmesini",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Solunumun değerlendirilmesini\n"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi Bak-Dinle-Hisset yöntemi ile kazazede üzerinde yapılan değerlendirmelerden biri değildir?\n",
+  "A": "Deri renginin gözlenmesi\n",
+  "B": "Soluk verişinin hissedilmesi\n",
+  "C": "Solunum sesinin dinlenmesi\n",
+  "D": "Solunum hareketlerinin gözlenmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Deri renginin gözlenmesi\n"
+ },
+ {
+  "Question": "Kazazedenin ağız bölgesine bir cam parçası ya da ayna yaklaştırarak buharlanıp buharlanmadığına bakılması, \"Bak-Dinle-Hisset\" yönteminin hangi aşamasını oluşturur?\n",
+  "A": "Dinle\n",
+  "B": "Bak\n",
+  "C": "Hisset\n",
+  "D": "Dinle-Hisset",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Bak\n"
+ },
+ {
+  "Question": "\nİlk yardımın ABC'si olarak kabul edilen uygulamalardan \"C\" dolaşımın değerlendirilmesini ifade etmektedir.\n\nAşağıdakilerden hangisi, dolaşımın değerlendirilmesi aşamasında ilk yardımcının yaptığı uygulamalardandır?",
+  "A": "Kazazedeye \"iyi misiniz?\" diye sorulması\n",
+  "B": "Kazazedeye baş-çene pozisyonu verilmesi\n",
+  "C": "Kazazedenin şah damarından 5 saniye süreyle nabız alınması\n",
+  "D": "İlk yardımcının yüzünü kazazedenin ağzına yaklaştırması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Kazazedenin şah damarından 5 saniye süreyle nabız alınması\n"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi, kaza sonrası güvenli bir ortamın oluşturulması için yapılması gereken uygulamalardandır?\n",
+  "A": "Yardımı güçleştirecek meraklı kişilerin olay yerinden uzaklaştırılması\n",
+  "B": "Olay yerinin diğer araç sürücüleri tarafından görünmesinin engellenmesi\n",
+  "C": "Araç LPG´li ise bagajında bulunan tüpün vanasının kapatılmaması\n",
+  "D": "Kazaya uğrayan aracın kontağının açık bırakılması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Yardımı güçleştirecek meraklı kişilerin olay yerinden uzaklaştırılması\n"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi, kazazedenin ikinci değerlendirilme aşamalarından olan \"Baştan Aşağı Kontrol\" basamağında yer alır?\n",
+  "A": "Adı ve soyadının öğrenilmesi\n",
+  "B": "Kullandığı ilaçların belirlenmesi\n",
+  "C": "Kişisel özgeçmişinin öğrenilmesi\n",
+  "D": "Solunum sayısının değerlendirilmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Solunum sayısının değerlendirilmesi"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi, kazazedenin ikinci değerlendirilme aşamalarından olan \"Görüşerek Bilgi Edinme\" basamağında yer alır?\n",
+  "A": "Solunum sayısının değerlendirilmesi\n",
+  "B": "Hoşgörülü ve nazik davranılması\n",
+  "C": "Bilinç düzeyinin kontrol edilmesi\n",
+  "D": "Cilt renginin değerlendirilmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Hoşgörülü ve nazik davranılması\n"
+ },
+ {
+  "Question": "Kaza sonuçlarının ağırlaşmasını önlemek için olay yerinin değerlendirilmesini kapsar. En önemli işlem olay yerinde oluşabilecek tehlikeleri belirleyerek güvenli bir çevre oluşturmaktır.\n\nVerilen bilgi, ilk yardımın temel uygulamalarından hangisiyle ilgilidir?",
+  "A": "Bildirme\n",
+  "B": "Koruma\n",
+  "C": "Kurtarma\n",
+  "D": "Tedavi etme",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Koruma\n"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi, 112'nin aranması sırasında dikkat edilmesi gereken hususlardan biri değildir?\n",
+  "A": "Kesin yer ve adres bilgilerini vermekten kaçınılması\n",
+  "B": "Kimin, hangi numaradan aradığının bildirilmesi\n",
+  "C": "112 merkezi tarafından sorulan sorulara net bir şekilde cevap verilmesi\n",
+  "D": "Herhangi bir ilk yardım uygulaması yapıldıysa nasıl bir yardım verildiğinin belirtilmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Kesin yer ve adres bilgilerini vermekten kaçınılması\n"
+ },
+ {
+  "Question": "\"-Yaralanmanın ciddiyetinin değerlendirilmesi\n\n-İlk yardım önceliklerinin belirlenmesi\n\n-Yapılacak ilk yardım yönteminin belirlenmesi\n\n-Güvenli bir müdahale sağlanması\n\nVerilenler aşağıdakilerden hangisinin amacını oluşturur?\n",
+  "A": "Yaralıyı değerlendirmenin\n",
+  "B": "Trafik kazalarını azaltmanın\n",
+  "C": "Sağlık personeli niteliği kazanmanın\n",
+  "D": "İnsanları zararlı alışkanlıklarından uzaklaştırmanın",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Yaralıyı değerlendirmenin\n"
+ },
+ {
+  "Question": "Kaza sonrası olay yerini değerlendirmenin amacı aşağıdakilerden hangisidir?\n",
+  "A": "Yaralı sayısının ve türlerinin belirlenmesi\n",
+  "B": "Sağlık personeli niteliğinin kazanılması\n",
+  "C": "Kazazedelerin özel yaşamlarıyla ilgilenilmesi\n",
+  "D": "Kaza yapmış araçların cins ve modelinin tespit edilmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Yaralı sayısının ve türlerinin belirlenmesi\n"
+ },
+ {
+  "Question": "Olay ya da kaza, mümkün olduğu kadar hızlı bir şekilde telefon veya diğer kişiler aracılığıyla gerekli yardım kuruluşlarına haber verilmelidir. Türkiye’de ilk yardım gerektiren her durumda, telefon iletişimleri 112 acil telefon numarası üzerinden gerçekleştirilir.\n\nVerilen bilgi, ilk yardımın temel uygulamalarından hangisiyle ilgilidir?\n",
+  "A": "Bildirme\n",
+  "B": "Koruma\n",
+  "C": "Kurtarma\n",
+  "D": "Tedavi etme",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Bildirme\n"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi kazazedenin ikinci değerlendirilme aşamalarından olan “Baştan Aşağı Kontrol” basamağında yer alır?\n",
+  "A": "Kazazedenin isminin öğrenilerek adıyla hitap edilmesi\n",
+  "B": "Solunum sayısı, ritmi ve derinliğinin kontrol edilmesi\n",
+  "C": "Kazazedenin endişelerinin giderilerek rahatlatılması\n",
+  "D": "Hoşgörülü ve nazik davranılarak güven sağlanması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Solunum sayısı, ritmi ve derinliğinin kontrol edilmesi\n"
+ },
+ {
+  "Question": "Baş ve omurga yaralanması olmayan, bilinci kapalı kazazedenin hava yolunu açmak için kazazedeye aşağıdaki baş pozisyonlarından hangisi verilir?\n",
+  "A": "A)\n",
+  "B": "B)\n",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEj1OAXPhXLd0h7LESoABojcHf6y0FgO8sBcrFO9AkP0xRQzKG3SlgyGniNNblCClwXKIHsAyTe4QJF-zJl60wMWhfX-zO65qiBkI2aDXtzk513hBK-bsXMFpaFDvZc_VnpzU0KU4gBq0cuyZHqF9Kv3IAqmdJnikLTCOh4UmLn74kOfvHAFsxdJCtyFKEyn\/s1600\/Trafik%20Levhalar%C4%B1%2819%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "C)"
+ },
+ {
+  "Question": "Kazazedelere baş geri-çene yukarı pozisyonu verilmesinin nedeni aşağıdakilerden hangisidir?\n",
+  "A": "Kusmayı sağlamak\n",
+  "B": "Hava yolunu açmak\n",
+  "C": "Kalp masajı yapmak\n",
+  "D": "Bilinci değerlendirmek",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Hava yolunu açmak\n"
+ },
+ {
+  "Question": "Kazazedeye sözlü uyaranla ya da hafifçe omzuna dokunarak “iyi misiniz?” diye sorularak değerlendirmesi yapılır.\n\nYukarıdaki açıklamada boş bırakılan yere hangisi yazılmalıdır?",
+  "A": "Dolaşım\n",
+  "B": "Bilinç durumu\n",
+  "C": "Solunum\n",
+  "D": "Hava yolu açıklığı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Bilinç durumu\n"
+ },
+ {
+  "Question": "I-El freninin çekilmesi\n\nII-Kontağın kapatılması\n\nIII-LPG'li ise tüpün vanasının kapatılması\n\nVerilenlerden hangileri, kazaya uğrayan bir araçta alınması gereken güvenlik önlemlerindendir?",
+  "A": "Yalnız I\n",
+  "B": "I ve II\n",
+  "C": "II ve III\n",
+  "D": "I, II ve III",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "I, II ve III"
+ },
+ {
+  "Question": "Trafik kazası sonrası olay yerinin değerlendirmesini yapan bir ilk yardımcı;\n\nI.Olay yerini yeterince görünebilir biçimde işaretliyor,\n\nII.Kıvılcım oluşturabilecek ışıklandırma veya çağrı araçlarının kullanılmasına izin vermiyor,\n\nIII. Birinci değerlendirme sonucu tüm uyaranlara karşı tepkisiz olduğu belirlenen kazazedeye şekerli içecekler veriyor.\n\nBu ilk yardımcı, yukarıdaki uygulamaların hangilerinde hatalı davranmıştır?",
+  "A": "Yalnız I\n",
+  "B": "Yalnız II\n",
+  "C": "Yalnız III\n",
+  "D": "I, II ve III.\n",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Yalnız III\n"
+ }
+]

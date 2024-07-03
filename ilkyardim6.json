@@ -1,0 +1,172 @@
+[
+ {
+  "Question": "I-Yara içi kurcalanır.\n\nII-Saplanan yabancı cisim çıkarılmaz.\n\nIII-Yaranın üzeri kapatılarak tıbbi yardım istenir.\n\nYukarıdakilerden hangileri, ciddi yaralanmalarda yapılması gereken doğru bir ilk yardım uygulamasıdır?",
+  "A": "Yalnız I\n",
+  "B": "I ve II\n",
+  "C": "II ve III\n",
+  "D": "I, II ve III",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "II ve III\n"
+ },
+ {
+  "Question": "Kazazedenin burnundan ve kulağından kan ile birlikte sıvı gelmesi aşağıdaki yaralanma durumlarının hangisinde görülür?\n",
+  "A": "Şiddetli baş yaralanması\n",
+  "B": "Göğüs zedelenmesi",
+  "C": "Dalak yırtılması\n",
+  "D": "Mide delinmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Şiddetli baş yaralanması\n"
+ },
+ {
+  "Question": "Derin yaralanmaya sebep olan batıcı cisim yara üzerinde duruyorsa, aşağıdakilerden hangisi uygulanır?",
+  "A": "Cisim çıkarılır ve yaraya tentürdiyot dökülür.\n",
+  "B": "Cismin dışarıda kalan kısmı cilt hizasından kesilir ve yara sıkı sarılır.\n",
+  "C": "Cisim çıkarılmadan tespiti yapılır ve yaralı hastaneye sevk edilir.\n",
+  "D": "Cisim çıkarılır ve yaralı hastaneye sevk edilir.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Cisim çıkarılmadan tespiti yapılır ve yaralı hastaneye sevk edilir.\n"
+ },
+ {
+  "Question": "Delici göğüs yaralanmalarında kazazedeye, aşağıdaki pozisyonlardan hangisi verilir?\n",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)\n",
+  "D": "D)",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgUjzAYvJICCNrvxaXQHM6cGVmF5S-VdkpcrDkMYPcSGnpkDGHv4_ytPpsMlIqV8ix3olrcoMIl8T3yOPnMbRiQTAZgblwcOcGuRhQtdSSZi8pjA9qT-ESpe1YZhnGXLgIf9X-kWRQDGqediRatjPof4q24mfvaG4bz8zHPlmR_CRY6O0VMI3fSXNDCDYUa\/s1600\/Trafik%20Levhalar%C4%B1%2821%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "D)"
+ },
+ {
+  "Question": "Baş yaralanması sebebiyle bayılan ve daha sonra kendine gelen yaralıya, aşağıdakilerden hangisi uygulanır?\n",
+  "A": "Başı sıcak su ile yıkanır.\n",
+  "B": "Bulantı önleyici ve ağrı kesici ilaç verilir.\n",
+  "C": "Normal faaliyetini sürdürmesine izin verilir.\n",
+  "D": "En az 12-24 saat süre ile hekim kontrolünde tutulur.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "En az 12-24 saat süre ile hekim kontrolünde tutulur."
+ },
+ {
+  "Question": "İlk yardımcı olarak bulunduğunuz bir kaza yerinde, kazazedelerden birinin öksürme ile ağzından açık kırmızı renkte, köpüklü kan geldiğini gözlemlediniz.\n\nBu durumda, aşağıdaki organlardan hangisinin yaralandığını düşünürsünüz?",
+  "A": "Böbrek\n",
+  "B": "Akciğer\n",
+  "C": "Bağırsak\n",
+  "D": "Karaciğer",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Akciğer\n"
+ },
+ {
+  "Question": "Taş, yumruk ya da sopa gibi etkenlerin şiddetli olarak çarpması ile oluşan yaralara ne ad verilir?\n",
+  "A": "Kesik yaralar\n",
+  "B": "Ezikli yaralar\n",
+  "C": "Delici yaralar\n",
+  "D": "Parçalı yaralar",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Ezikli yaralar\n"
+ },
+ {
+  "Question": "Omurga yaralanmalarında geçici veya kalıcı felçlerin oluşmasının nedeni aşağıdakilerden hangisidir?\n",
+  "A": "Omuriliğin baskı altında olması ya da zedelenmesi\n",
+  "B": "Taşıma esnasında baş, boyun ve gövde ekseninin korunması\n",
+  "C": "Kazazedenin sırtüstü, düz pozisyonda yatırılması\n",
+  "D": "Kazazedenin hareketsiz hâle getirilmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Omuriliğin baskı altında olması ya da zedelenmesi\n"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi, yaralanmalarda uygulanan genel ilk yardım kurallarından biri değildir?\n",
+  "A": "Kanamanın durdurulması\n",
+  "B": "Yara yerinin değerlendirilmesi\n",
+  "C": "Yara üzerinin pamukla kapatılması\n",
+  "D": "Yaşam bulgularının kontrol edilmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Yara üzerinin pamukla kapatılması\n"
+ },
+ {
+  "Question": "Trafik kazalarında ölümlerin % 80’i kafatası ve omurga yaralanmalarından olmaktadır. Bu yaralanmalarda bilinçli ilk yardım, sakatlıkları önler ve hayatı kurtarır.\n\nBuna göre, aşağıdakilerden hangisi kafatası ve omurga yaralanmalarında yapılması gereken ilk yardım uygulamalarındandır?",
+  "A": "Kazazedenin yalnız bırakılması\n",
+  "B": "Baş-boyun-gövde ekseninin korunması\n",
+  "C": "Bilinci açıksa hareket etmesinin sağlanması\n",
+  "D": "Hava yolu açıklığını sağlamak için komapozisyonu verilmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Baş-boyun-gövde ekseninin korunması\n"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi, delici karın yaralanmalarında yapılan doğru ilk yardım uygulamalarındandır?\n",
+  "A": "Ağızdan yiyecek ya da içecek verilmesi\n",
+  "B": "Dışarı çıkan organların içeri sokulmaya çalışılması\n",
+  "C": "Isı kaybını önlemek için kazazedeye soğuk uygulama yapılması\n",
+  "D": "Kazazedenin bilinci yerindeyse sırtüstü pozisyonda bacaklar bükülmüş olarak yatırılması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Kazazedenin bilinci yerindeyse sırtüstü pozisyonda bacaklar bükülmüş olarak yatırılması"
+ },
+ {
+  "Question": "Dokular üzerinde çekme etkisi ile meydana gelen yaralara ne ad verilir?\n",
+  "A": "Ezikli yaralar\n",
+  "B": "Delici yaralar\n",
+  "C": "Kesik yaralar\n",
+  "D": "Parçalı yaralar",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Parçalı yaralar"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi ciddi yaralanmalarda yapılması gereken ilk yardım uygulamalarındandır?\n",
+  "A": "Yara içinin kurcalanması\n",
+  "B": "Yarada kanama varsa durdurulması\n",
+  "C": "Yaranın üzerinin temiz pamukla kapatılması\n",
+  "D": "Yaraya saplanan yabancı cisimlerin çıkarılması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Yarada kanama varsa durdurulması\n"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi delici göğüs yaralanmalarında kazazedeye yapılan doğru bir ilk yardım uygulamasıdır?\n",
+  "A": "Ayaklarının yüksekte tutulup yüzüstü yatırılması\n",
+  "B": "Bilinci açık ise yarı oturur duruma getirilmesi\n",
+  "C": "Ağızdan ılık içecekler verilmesi\n",
+  "D": "Batan cismin çıkarılması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Bilinci açık ise yarı oturur duruma getirilmesi\n"
+ },
+ {
+  "Question": "Bilinci açık, kulağından kan gelen, göz çevresinde ve kulak arkasında morlukları olan kazazedeye, olay yerinde herhangi bir tehlike söz konusu değilse aşağıdaki ilk yardım uygulamalarından hangisi yapılmalıdır?\n",
+  "A": "Ayakları 45 cm yükseltilmeli\n",
+  "B": "Başı 30 cm aşağıya indirilmeli\n",
+  "C": "Hareket etmemesi sağlanmalı\n",
+  "D": "Kulağı temiz bir bezle tıkanmalı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Hareket etmemesi sağlanmalı\n"
+ },
+ {
+  "Question": "Bir travma sonucu deri ya da mukozanın bütünlüğünün bozulmasına ne ad verilir?\n",
+  "A": "Şok\n",
+  "B": "Yara",
+  "C": "Koma",
+  "D": "Tıkanma",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Yara"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi delici karın yaralanması olan kazazedeye yapılması gereken ilk yardım uygulamalarından biri değildir?\n",
+  "A": "Bilinç kontrolünün yapılması\n",
+  "B": "Yaşam bulgularının sık sık izlenmesi\n",
+  "C": "Dışarı çıkan organlarının içeri sokulmaya çalışılması\n",
+  "D": "Bilinci yerinde ise sırtüstü pozisyonda bacakları bükülmüş olarak yatırılması\n",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Dışarı çıkan organlarının içeri sokulmaya çalışılması\n"
+ }
+]
