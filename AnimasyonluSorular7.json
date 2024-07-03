@@ -1,0 +1,57 @@
+[
+ {
+  "Question": "Sollamak istiyorsunuz. Burada nasıl davranmalısınız?",
+  "A": "Eğer mavi otomobil sollarsa hemen arkasından onu takip ederim",
+  "B": "Henüz sollamam, çünkü mavi otomobil sollayabilir",
+  "C": "Arkadan gelen yeiş aracın beni sollamasını beklerim",
+  "D": "Tek sollama işlemiyle bütün araçları sollarım",
+  "Image": 1,
+  "Explaination": "Videoya göre mavi otomobil sollamak üzere... Mavi otomobili geçmeden önce sollamasını beklemelisin. Mavi arabanın sürüş davranışını daha iyi değerlendirene kadar sollama için bekleyiniz.",
+  "Answer": "Henüz sollamam, çünkü mavi otomobil sollayabilir",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/32\/7a\/59\/327a59a71f00239c7b00ae86cfe9207a_t1.mp4"
+ },
+ {
+  "Question": "Videoya göre sürücünün sollamasına engel olan şey nedir?",
+  "A": "Yolun seyri ve karşıdan gelen trafik",
+  "B": "Hızının yavaş olması",
+  "C": "Şeridin durumu",
+  "D": "Mavi kamyonun yavaş gitmesi",
+  "Image": 1,
+  "Explaination": "Virajlı ve yolun ilerleyisindeki içgörü eksikligi nedeniyle, bu nokta sollama için uygun degildir. Yol durumu sollamalara uygun değildir.",
+  "Answer": "Yolun seyri ve karşıdan gelen trafik",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/47\/af\/77\/47af77538f5820f96dfcbef531d74218_t1.mp4"
+ },
+ {
+  "Question": "Şimdi hangi şekilde doğru davranırsınız?",
+  "A": "A) Sağ şeride geçerim",
+  "B": "B) Sol şeride geçerim",
+  "C": "C) Ben orta şeritte kalırım",
+  "D": "D) Sol şeritten sollama yaparım",
+  "Image": 1,
+  "Explaination": "Sağ şeritte engel olacağınız bir motosiklet var. Bu, otoyol girişindeki otoyola yeni girdi. Her iki durumda da araçları engelleyeceğiniz için şu anda sol veya sağ şeride geçemezsiniz. Yani orta şeritte kalmalısın. Önünüzden geçen araba sol şeritte gidiyor. Yani sola gidemezsin.",
+  "Answer": "C) Ben orta şeritte kalırım",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/16\/42\/27\/16422786fbdde858d77de3944fad72ef_t1.mp4"
+ },
+ {
+  "Question": "Bu durumda doğru olan nedir?",
+  "A": "A) [Mavi araba] sürücüsü ile anlaşmam gerekir",
+  "B": "B) [Mavi araba] beklemek zorunda",
+  "C": "C) Beklemeden hızla yoluma devam etmeliyim",
+  "D": "D) Ben beklemeliyim",
+  "Image": 1,
+  "Explaination": "Bunun bir döner kavşak olmadığını işaretlerden anlayabilirsiniz. Bu nedenle sağdaki araca yol vermelisiniz. Dönel kavşak olmayan yerlerde de herhangi bir işaret yoksa geçiş hakkı sağdakinindir.",
+  "Answer": "D) Ben beklemeliyim",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/92\/e6\/e4\/92e6e4eca723f61e4fa7ee900914a459_t1.mp4"
+ },
+ {
+  "Question": "Videoda aşağıdakilerden hangisi sola sapmadan önce beklememize sebeb olmaz?",
+  "A": "A) Yaya",
+  "B": "B) Kamyon",
+  "C": "C) Motosiklet",
+  "D": "D) Karşıdan akan trafik",
+  "Image": 1,
+  "Explaination": "Kamyonun arkasından yaklaşmakta olan bir araba yolundan geçen motosiklet, yol hakkına sahiptir. Sadece yaklaşmakta olan trafiği engellemediğinizden emin olduğunuzda dönebilirsiniz. Yaya yürüyüşe çıkar ve sola dönerken engel olmaz.",
+  "Answer": "A) Yaya",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/ad\/00\/f0\/ad00f06fbad9700c69b375455e96fd9f_t1.mp4"
+ }
+]

@@ -1,0 +1,46 @@
+[
+ {
+  "Question": "Olay yerindeki araç sürücüsü ilk yardımın temel uygulamalarından hangisini gerçekleştirmektedir?",
+  "A": "Koruma",
+  "B": "Kurtarma",
+  "C": "Tedavi Etme",
+  "D": "Bildirme",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Bildirme",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/06\/21\/81\/062181d105a06eb6111e7deb8da9fc6f_t1.mp4"
+ },
+ {
+  "Question": "Videodaki sarı minibüsle ilgili hangisi kesinlikle söylenir?",
+  "A": "Egzozunun arızalı olduğu",
+  "B": "Motorunun düzensiz çalıştığı",
+  "C": "Kapasitesinin üzerinde yük taşıdığı",
+  "D": "Yüksek devirde kullanıldığı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Motorunun düzensiz çalıştığı",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/6d\/11\/fb\/6d11fb48505cbb422b5c246f2f9715d2_t1.mp4"
+ },
+ {
+  "Question": "Videodaki tehlikeli durum, sürücülerin hangi kuralı ihlal etmeleri sonucunda oluşmuştur?",
+  "A": "Takip mesafesi kuralını",
+  "B": "Şerit takip kuralını",
+  "C": "Kavşaklarda ilk geçiş hakkı kuralını",
+  "D": "Geçme kuralını",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Şerit takip kuralını",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/0a\/22\/d1\/0a22d11a7cba63617629c750c17ab8f0_t1.mp4"
+ },
+ {
+  "Question": "Sürücünün hangisini yapması doğrudur?",
+  "A": "Korna çalarak bisiklet sürücüsünü uyarması",
+  "B": "Uyarı ışıklarını yakarak durması",
+  "C": "Hızını azaltıp şeridinde devam etmesi",
+  "D": "Bisikletin sağından yoluna devam etmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Hızını azaltıp şeridinde devam etmesi",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/e0\/c5\/fd\/e0c5fd6fab4075cd8f90455e60643e4a_t1.mp4"
+ }
+]

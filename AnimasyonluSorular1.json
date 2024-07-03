@@ -1,0 +1,46 @@
+[
+ {
+  "Question": "Sürücü hakkında hangisi kesinlikle söylenir?",
+  "A": "Heyecanlı",
+  "B": "Sabırsız",
+  "C": "Kaygılı",
+  "D": "Kavgacı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Sabırsız",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/c9\/5e\/4d\/c95e4d872d68ea3c06694fadc7d3e1b8_t1.mp4"
+ },
+ {
+  "Question": "I. Can ve mal güvenliğini tehlikeye attığı\n\nII. İleri sürüş tekniklerine sahip olduğu\n\nIII. Şerit takip kurallarına uyduğu\n\nIV. Geçme kurallarına uymadığı\n\nMotosiklet sürücüsü için numaralanmış ifadelerden hangileri kesinlikle söylenebilir?",
+  "A": "II ve III",
+  "B": "I ve IV",
+  "C": "III ve IV",
+  "D": "I ve II",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "I ve IV",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/15\/f8\/d5\/15f8d51b72cf77f67d294fea9e40a2ac_t1.mp4"
+ },
+ {
+  "Question": "Videoya göre, sürücü nasıl bir tehlikenin olabileceğini düşünmelidir?\n",
+  "A": "Yolun ilerisinde trafik denetimi yapılabileceğini",
+  "B": "Rüzgar nedeniyle direksiyon hakimiyetini kaybedebileceğini",
+  "C": "Orta şeritteki otomobilin ani fren yapabileceğini",
+  "D": "Bir aracın benzin istasyonundan yola çıkabileceğini",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Bir aracın benzin istasyonundan yola çıkabileceğini",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/ad\/9e\/8b\/ad9e8b76d78245e9b29472e4a2cfd12e_t1.mp4"
+ },
+ {
+  "Question": "I. Hız sınırlamasına uymadığı\n\nII. Araç ışıklarını gerekli yerde kullanmadığı\n\nIII. Kavşaklarda dönme ve dönüş kurallarına uymadığı\n\nSağa dönüş yapan kırmızı renkli araç sürücüsü hakkında numaralanmış ifadelerden hangileri kesinlikle söylenir?",
+  "A": "I ve II",
+  "B": "I ve III",
+  "C": "II ve III",
+  "D": "I, II ve III",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "II ve III",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/b2\/2f\/f9\/b22ff9e57fdc37e97967ff2baf2f86b3_t1.mp4"
+ }
+]

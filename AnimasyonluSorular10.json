@@ -1,0 +1,57 @@
+[
+ {
+  "Question": "Nasıl davranmalısınız?",
+  "A": "A) Orta şeritte kalırım ve hız keserim",
+  "B": "B) Sol şeride geçerim ve önümdeki kırmızı renkli binek otosunu sollarım",
+  "C": "C) Sağ şeride geçerim ve hız keserim",
+  "D": "D) [Yeşil] kamyonu sollayıp sağ şeride geçerim",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Orta şeritte kalırım ve hız keserim",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/6a\/a1\/aa\/6aa1aaab553e78775de078f51577cf38_t1.mp4"
+ },
+ {
+  "Question": "Videoya göre doğru davranışınız nedir?",
+  "A": "A) Sola kaçarım",
+  "B": "B) Sağa kaçarım",
+  "C": "C) Direksiyonu düz ve sabit tutarım",
+  "D": "D) Ani fren yaparım",
+  "Image": 1,
+  "Explaination": "Sola kaçamazsınız, çünkü bir kamyon tam tersi şerittedir. Yolun hemen yanında bir dolgu var. Kendinizi ve diğer yol kullanıcılarını tehlikeye atacağınız için sağa kaçamazsınız. Arkanızda yakın bir araba var ve karşı şeritte bir kamyon bulunuyor. Bu nedenle, ne kaçınma ne de acil durum frenlemesi doğru bir seçenektir. Zor olsa bile, bu durumda diğer yol kullanıcılarını ve kendinizi tehlikeye atmamak için direksiyon simidini düz ve sıkı tutmalısınız",
+  "Answer": "C) Direksiyonu düz ve sabit tutarım",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/5d\/27\/26\/5d272688a3c381ef02e95a9e270cff31_t1.mp4"
+ },
+ {
+  "Question": "Şimdi nasıl davranırsanız doğru olur?",
+  "A": "A) Hızlanırım",
+  "B": "B) Dururum",
+  "C": "C) Hiçbir değişiklik olmadan sürüşe devam ederim",
+  "D": "D) Yavaşlayarak geçerim",
+  "Image": 1,
+  "Explaination": "Yaya trafik ışığı yeşil olduğu için sağa dönerken yayaların önceliği vardır. Burada durup koşucunun geçmesine izin vermelisin.",
+  "Answer": "B) Dururum",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/d3\/8d\/fa\/d38dfa3091a1abef0d2fe3b47699590d_t1.mp4"
+ },
+ {
+  "Question": "Videoya göre sola döneceksiniz. Burada neden beklemelisiniz?\n\nI) Bisikletliden dolayı\nII) Kırmızı renkli araçtan dolayı\nIII) Yeşil renkli araçtan dolayı",
+  "A": "A) Yalnız I",
+  "B": "B) Yalnız II",
+  "C": "C) I ve II",
+  "D": "D) I ve III",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) I ve III",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/eb\/91\/2e\/eb912e2c86f73eb677f851fb31ae0d15_t1.mp4"
+ },
+ {
+  "Question": "Trafik lambası \"yeşile\" dönerken neye dikkat etmelisiniz?\nI. Karşıdan gelmekte olan trafiğe\nII.Motosiklete\nIII.[Yayaya]",
+  "A": "A) Yalnız I",
+  "B": "B) Yalnız II",
+  "C": "C) II ve III",
+  "D": "D) I,II ve III",
+  "Image": 1,
+  "Explaination": "Araç sürücüleri, trafik polisi veya trafik ışığı bulunmayan ancak trafik işareti veya levhalarıyla belirlenmiş kavşak giriş ve çıkışlarına, yaya veya okul geçitlerine yaklaşırken yavaşlamak, buralardan geçen veya geçmek üzere bulunan yaya varsa ilk geçiş hakkını vermesi zorunludur. bu durumda yaya sarı ışık yansa bile geçiş hakkına sahiptir. Motorsiklet solunuza yerleştiği için yeşil yanacağı sırada hızlanıyor olabilir. Bu nedenle motorsiklete de yol vermelisiniz.",
+  "Answer": "C) II ve III",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/a9\/6c\/32\/a96c3209e9e04d6ca389de35e87eddf8_t1.mp4"
+ }
+]

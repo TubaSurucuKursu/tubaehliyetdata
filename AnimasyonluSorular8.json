@@ -1,0 +1,57 @@
+[
+ {
+  "Question": "Videoya göre nasıl doğru davranırsınız? ",
+  "A": "A) Hafif bir fren yapmak suretiyle arkamdaki araçtan daha fazla mesafe bırakmasını isterim",
+  "B": "B) Ticari aracı sollarım ve ardından orta şeride geçiş yaparım",
+  "C": "C) Derhal sağdaki şeride geçerim",
+  "D": "D) Hafif bir fren yaparak kırmızı araca yol veririm",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Ticari aracı sollarım ve ardından orta şeride geçiş yaparım",
+  "Video": " https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/5a\/3c\/e7\/5a3ce720775fb2f7254e345f43a6d4a8_t1.mp4"
+ },
+ {
+  "Question": "Doğru davranışınız nedir? ",
+  "A": "A) Hızımı arttırım ve orta şeritte kalırım",
+  "B": "B) Hızımı düşürürüm ve orta şeritte kalırım",
+  "C": "C) Hızımı korurum ve sağ şeride geçerim",
+  "D": "D) Hızımı korurum ve sol şeride geçerim",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Hızımı düşürürüm ve orta şeritte kalırım",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/3e\/df\/e6\/3edfe6cd4934499d177486ba3c19daf4_t1.mp4"
+ },
+ {
+  "Question": "Önünüzdeki [kırmızı] araba uzun süredir düşük hızda seyrediyor. Bu durumda nasıl doğru davranırsınız?",
+  "A": "A) Hızımı korurum ",
+  "B": "B) Yol açık olduğu için sollarım",
+  "C": "C) Mesafeyi azaltırım ve korna çalarım",
+  "D": "D) Hızımı arttırırım ",
+  "Image": 1,
+  "Explaination": "Kırmızı araca fazla yaklaşmamak ve yine de gerekli güvenlik mesafesini korumak için hızınızı korumalısınız.  Yol sollama için uygun ancak bir sonraki virajı görebilirsiniz. Görünür rota sollamak için çok kısadır. Trafikte çok yakın sürmek ve korna çalmak gibi itiş kakış yasaktır",
+  "Answer": "A) Hızımı korurum ",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/64\/11\/00\/641100031411a3c42cdf0b64419cabea_t1.mp4"
+ },
+ {
+  "Question": "Videodaki sürücü ne yapmalıdır?",
+  "A": "A) Motosikletten dolayı fren yapmalıdır.",
+  "B": "B) Bisikletliden dolayı fren yapmalıdır.",
+  "C": "C) Mavi Transportırdan dolayı fren yapmalıdır.",
+  "D": "D) Hızını koruyarak yolunda ilerlemelidir.",
+  "Image": 1,
+  "Explaination": "Motosikletçiyi minübüs kapatmaktadır. Bununla birlikte, hiçbir hakkı olmadığı halde, yolda yüksek hızda sürüş yapmaktadır. Tehlikeye atmamak için fren yapmak en doğrusudur.",
+  "Answer": "A) Motosikletten dolayı fren yapmalıdır.",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/70\/6c\/79\/706c7939977b819c14660f832f65784b_t1.mp4"
+ },
+ {
+  "Question": "Videodaki sola sapacak sürücü neden durmak zorundadır?",
+  "A": "Elektrikli Scooter`dan dolayı",
+  "B": "Tramvaydan dolayı",
+  "C": "Yayadan dolayı",
+  "D": "Sarı otomobilden dolayı",
+  "Image": 1,
+  "Explaination": "Onu tehlikeye atmamak için durmalısın. Tramvay dönüşünüzü etkilemez. Yayalar yeterince uzakta. Dönerseniz, yayaları tehlikeye atmazsınız.",
+  "Answer": "Elektrikli Scooter`dan dolayı",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/e5\/e3\/dc\/e5e3dc5d15ac4bc604efa01d95f081a3_t1.mp4"
+ }
+]

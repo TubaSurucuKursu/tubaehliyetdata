@@ -1,0 +1,57 @@
+[
+ {
+  "Question": "Görsele göre, Adana istikametine gitmek isteyen 1 numaralı araç sürücüsü hakkında hangisi söylenemez?",
+  "A": "A) Araç ışıklarını doğru yerde kullanmadığı",
+  "B": "B) Dönüş öncesi doğru şeride girmesi",
+  "C": "C) Kamyon sürücüsünü zor durumda bırakmadığı",
+  "D": "D) Geçme kurallarına uymadığı",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEj4HoLnDHYOXC28FGiJcfTVfoNIb6zkA9kOs-vkwMxQ1SLih07pS3sPC-7AIOhOPC10KcjbOrF-xr4YxkshrCSRdasGne5SocBmXgT-Oa6qCxT5I9ZGTBzWraRLdQ2otXasYmqCQxojGYzk4a_9McS8LjzuoO12MtnqJ9wFMvGjtdWDwHMqEGOU3Snjagdr\/s1600\/Trafik%20Levhalar%C4%B1%20%281%29.jpg",
+  "Explaination": 1,
+  "Answer": "C) Kamyon sürücüsünü zor durumda bırakmadığı",
+  "Video": 1
+ },
+ {
+  "Question": "Animasyona göre hangisinin yapılması yanlıştır?",
+  "A": "A) Hızını azaltması",
+  "B": "B) Öndeki aracı geçmesi",
+  "C": "C) Takip mesafesini azaltması",
+  "D": "D) Duraklama yapmaktan kaçınması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Takip mesafesini azaltması",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/iht\/720p\/c3\/60\/d2\/c360d247c4b2923531f7c09917aeab0b.mp4"
+ },
+ {
+  "Question": "Görsele göre neyi düşünürsünüz?",
+  "A": "A) Sadece yolcu indirip bindirilirken kısa süreli duraklanabilir",
+  "B": "B) Bütün yasaklama ve kısıtlamanın sonu",
+  "C": "C) Girişi olmayan yol",
+  "D": "D) Yol ileride bitecektir güzergah sonu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Sadece yolcu indirip bindirilirken kısa süreli duraklanabilir",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/iht\/720p\/4b\/6e\/85\/4b6e85a56d8ef9e01242e5d7225886bc.mp4"
+ },
+ {
+  "Question": "Görselde karşıya geçmeye çalışan yayanın hızlı hareket etmesi için el, kol ve sözle uyarılarda bulunan sürücüyle ilgili hangisi söylenebilir?",
+  "A": "A) İletişim kabiliyetinin yüksek olduğu",
+  "B": "B). Empati kurabildiği\n",
+  "C": "C) Sabırlı harelet edemediği",
+  "D": "D) Saygı kavramına önem verdiği",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjx5rDSAcqh7YGd_72j1clwC1X9LYhSfJyrl1OC2CKWaqsimlXDMavhwNosedyLifC-_rVBDl3kf-ZPSTRJLohqhphXyASOw0mLPhPkGrvJ199RHYblZsmeXWdRPPhlmpeIqtWiFcFphhnR-_3qdGXMNuSXHcN-vGvQETVVBnYs85bvtHPWskBsJb7heVOB\/s1600\/vlcsnap-2024-05-30-10h35m44s435.png",
+  "Explaination": 1,
+  "Answer": "C) Sabırlı harelet edemediği",
+  "Video": 1
+ },
+ {
+  "Question": "Hangisi yanlıştır?\nI. Trafik kurallarına uyulmuştur\nII. Sürücüler geçiş önceliği konusunda bilgilidir\nIII. Sürücüler hız sınırını aşmıştır",
+  "A": "Yalnız I",
+  "B": "I ve II",
+  "C": "II ve III",
+  "D": "I,II ve III",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "I,II ve III",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/iht\/720p\/4c\/ee\/5b\/4cee5b26e2133223689357b0fe4c0446.mp4"
+ }
+]

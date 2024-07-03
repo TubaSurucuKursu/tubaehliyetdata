@@ -1,0 +1,57 @@
+[
+ {
+  "Question": "Araç sürücüsü nasıl davranmalıdır?",
+  "A": "Hızını artırarak bu bölgeden uzaklaşmalı",
+  "B": "Korna çalarak öndeki araç sürücüsünü uyarmalı",
+  "C": "Dörtlü ikaz ışıklarını yakarak beklemeli",
+  "D": "Hızını azaltarak sol şeritten yoluna devam etmeli",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Hızını azaltarak sol şeritten yoluna devam etmeli",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/a4\/67\/1b\/a4671bbeab9f88d8d6a21823b5595644_t1.mp4"
+ },
+ {
+  "Question": "Videoya göre sürücü nasıl davranmalıdır?",
+  "A": "Sol şeride geçip derhal servise gitmeli",
+  "B": "Trafik kurallarına uygun olarak derhal durmalı",
+  "C": "Yavaşlayıp sağ şeritten yoluna devam etmeli",
+  "D": "Sabit hızla aynı şeritte yoluna devam etmeli",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Trafik kurallarına uygun olarak derhal durmalı",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/63\/f2\/67\/63f2678e389e0e11cd7ff67e1b67802d_t1.mp4"
+ },
+ {
+  "Question": "I. Kırmızı ışıkta geçmektedir.\n\nII. Sağdan gelen yeşil araca ilk geçiş hakkını vermemektedir.\n\nIII. Girişi olmayan yol bölümüne girmektedir.\n\nVideoya göre, kırmızı otomobil sürücüsü numaralanmış hatalardan hangilerini yapmaktadır?",
+  "A": "Yalnız I",
+  "B": "I ve III",
+  "C": "I ve II",
+  "D": "I, II ve III",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "I ve III",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/45\/4e\/5d\/454e5d798553a889ee91010ddda306da_t1.mp4"
+ },
+ {
+  "Question": "I- Her durumda trafik ışıklarına yaklaşınca hızını azaltmalı ve dikkatli geçiş yapmalıdır.\n\nII- \"Yeşilden sarıya\" dönen trafik işaretini gördüğünde \"kırmızı ışığın\" yanması için beklemelidir.\n\nIII- Güvenle duramayacak mesafedeyse geçişini tamamlamalıdır.\n\nAraç sürücüsü trafik ışığı \"yeşilden-sarıya\" döndüğü esnada devam etmiştir. Durum ile ilgili seçeneklerden hangileri söylenebilir.",
+  "A": "I",
+  "B": "I ve II",
+  "C": "I ve III",
+  "D": "I ,III ve III",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "I ,III ve III",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/01\/1b\/dd\/011bddd39584e873534f2ef12bf007eb_t1.mp4"
+ },
+ {
+  "Question": "Sürücüsünün trafikte motosiklet kullanımı ile ilgili aşağıdakilerden hangisi söylenemez?",
+  "A": "Tüm trafik kurallarına saygılıdır",
+  "B": "Şerit takibini hatalı yapmıştır",
+  "C": "Dönüş kurallarına uygun hareket etmemiştir",
+  "D": "Sol taraftaki akan trafiği kontrol etmemiştir",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Tüm trafik kurallarına saygılıdır",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/71\/9d\/f0\/719df0e81559effaf9cbc52f535c485d_t1.mp4"
+ }
+]

@@ -1,0 +1,46 @@
+[
+ {
+  "Question": "Videoya göre, kırmızı otomobil sürücüsü nasıl davranmalıdır?",
+  "A": "Yavaşlamalı ve önündeki aracın arkasından yoluna devam etmeli",
+  "B": "Önündeki aracın sağından yoluna devam etmeli",
+  "C": "Solundaki şeride geçmeli",
+  "D": "Korna çalarak önündeki aracın hızlanmasını istemeli",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Yavaşlamalı ve önündeki aracın arkasından yoluna devam etmeli",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/26\/14\/c7\/2614c702e45fa2f5fc5c3f8884ce4cb9_t1.mp4"
+ },
+ {
+  "Question": "Videoya göre, beyaz otomobilin sürücüsü için hangisi kesinlikle söylenir?",
+  "A": "Uykusuz ve yorgun olarak araç kullandığı",
+  "B": "İleri sürüş tekniklerine uygun araç kullandığı",
+  "C": "Şerit takip ve manevra kurallarına uymadığı",
+  "D": "Uyuşturucu veya uyarıcı madde etkisinde araç kullandığı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Şerit takip ve manevra kurallarına uymadığı",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/bf\/bb\/eb\/bfbbebe915d3a79a8ae877aeb9576467_t1.mp4"
+ },
+ {
+  "Question": "Videoya göre hangisinin yapılması doğru olur?",
+  "A": "Sarı otomobil sürücüsünün hızlanması",
+  "B": "Siyah otomobil sürücüsünün sol şeride geçmesi",
+  "C": "Siyah otomobil sürücüsünün beyaz otomobil sürücüsüne ilk geçiş hakkını vermesi",
+  "D": "Beyaz otomobil sürücüsünün beklemesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Beyaz otomobil sürücüsünün beklemesi",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/c7\/1e\/b8\/c71eb80e81b7640db1c785e6bb8c019a_t1.mp4"
+ },
+ {
+  "Question": "Videodaki kazayla ilgili hangisi kesinlikle söylenir?",
+  "A": "Araç sürücüleri takip mesafesine uymaktadır.",
+  "B": "Kaza, iklim şartlarına bağlı olarak meydana gelmiştir.",
+  "C": "Mavi araç sürücüsünün hatalı geçme yapması kazaya sebep olmuştur.",
+  "D": "Yeşil araç sürücüsünün ani firen yapması kazaya sebep olmuştur.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Mavi araç sürücüsünün hatalı geçme yapması kazaya sebep olmuştur.",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/1e\/13\/d3\/1e13d3f2407f5fcc58bb5b58ea1e1a2e_t1.mp4"
+ }
+]

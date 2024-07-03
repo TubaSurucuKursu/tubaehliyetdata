@@ -1,0 +1,57 @@
+[
+ {
+  "Question": "Bu durumda nasıl davranırsınız?",
+  "A": "Sollama işlemini dikkatle tamamlarım",
+  "B": "Sollama işlemine son veririm",
+  "C": "Sollama işlemini çabucak tamamlarım",
+  "D": "Hızımı artırırım",
+  "Image": 1,
+  "Explaination": "Sagdaki bir araç park alanindan çiktigi için sollama islemini iptal etmeniz gerekir. Kimseyi tehlikeye atmamak için sollama islemini durdurmalisiniz.",
+  "Answer": "Sollama işlemine son veririm",
+  "Video": "https:\/\/video4.kalaiwa.de\/assets\/1106114v960.mp4"
+ },
+ {
+  "Question": "Bu durumda sağa dönerken neye dikkat etmeniz gerekir?",
+  "A": "Karşıdan gelen trafiğe",
+  "B": "Motosiklete",
+  "C": "Bisiklet sürücüsüne",
+  "D": "Arkadan gelen araca",
+  "Image": 1,
+  "Explaination": "Bisikletçinin geçiş hakkı vardır. Sağa dönerken daima yayaların mı yoksa bisikletlilerin mi yaklaştığına dikkat etmelisiniz. Karşıdan karşıya geçmelerine izin veriliyor. Bunu yapmak için aynaya bakın ve ayrıca kör noktayı görmek için omuz görünümünü kullanın.",
+  "Answer": "Bisiklet sürücüsüne",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/10\/e6\/77\/10e6770bf19971d42d0a986048f6f5fe_t1.mp4"
+ },
+ {
+  "Question": "Bu durumda ne yaparsanız doğru hareket etmiş olursunuz?",
+  "A": "Hızımı düşürürüm",
+  "B": "Hızımı korurum",
+  "C": "Hızımı arttırırım",
+  "D": "Bisiklet sürücüsünü sollarım",
+  "Image": 1,
+  "Explaination": "Önünüzde bisikletçiyi geçmek için yeterli alan vermeyen bir yol adası var. Yavaşlamalı ve şerit tekrar genişleyene kadar bisikletçinin arkasında kalmalısınız.",
+  "Answer": "Hızımı düşürürüm",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/9e\/d3\/72\/9ed372d9c02e43f265e169eb72db7428_t1.mp4"
+ },
+ {
+  "Question": "Videoya göre sollama işlemini neden iptal etmek zorundasınız?",
+  "A": "Çünkü hızım sollamak için uygun değil",
+  "B": "Çünkü motosiklet beni sollayacak",
+  "C": "Çünkü traktör sola dönecek",
+  "D": "Çünkü görünürde sollama yasağı levhası var",
+  "Image": 1,
+  "Explaination": "Traktör göstergeyi etkinleştirdi ve sola dönecek. Bir çarpışmayı ve bir tehlikeyi önlemek için sollama manevranızı iptal etmelisiniz.",
+  "Answer": "Çünkü traktör sola dönecek",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/b0\/3f\/96\/b03f96fe539e2ecebed041c8c962d99a_t1.mp4"
+ },
+ {
+  "Question": "Videodaki sürücü neden araçtan inmemelidir?",
+  "A": "Bisiklet sürücüsünden dolayı",
+  "B": "Motosikletten dolayı",
+  "C": "Yayadan dolayı",
+  "D": "Otobüsten dolayı",
+  "Image": 1,
+  "Explaination": "Bisikletçi sürücü kapınızın hemen yanından geçiyor. Kapıyı açmadan önce, her zaman kimseyi engellemediğinizden emin olmalısınız ve ancak o zaman kapıyı açmanıza izin verilir.",
+  "Answer": "Bisiklet sürücüsünden dolayı",
+  "Video": "https:\/\/video2.kalaiwa.de\/assets\/2214107mv960.mp4"
+ }
+]

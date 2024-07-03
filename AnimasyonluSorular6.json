@@ -1,0 +1,57 @@
+[
+ {
+  "Question": "Videodaki sürücü neden beklemelidir?",
+  "A": "Kırmızı otomobilden dolayı",
+  "B": "Bisikletten dolayı",
+  "C": "Yayadan dolayı",
+  "D": "Yeşil otomobilden dolayı",
+  "Image": 1,
+  "Explaination": "Yeşil araba dümdüz sürmek istiyor ve Kesişmeyi engellememek için düzenlemelere uygun olarak duruyor. Bisikletçi hangi yöne devam etmek istedigi hala belirsiz. Ne olursa olsun, senden öncelikli.  ",
+  "Answer": "Bisikletten dolayı",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/5b\/aa\/07\/5baa07636d23c91a69827114a2b833c1_t1.mp4"
+ },
+ {
+  "Question": "Videodaki sürücü neden durmalıdır?",
+  "A": "Beyaz otomobilden dolayı",
+  "B": "Bisikletliden dolayı",
+  "C": "Tramvaydan dolayı",
+  "D": "Mavi otomobilden dolayı",
+  "Image": 1,
+  "Explaination": "Tramvay geçene kadar dönüs yapmanıza izin verilmez.",
+  "Answer": "Tramvaydan dolayı",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/01\/9c\/69\/019c6998dadf9c5fca17a25681f96edd_t1.mp4"
+ },
+ {
+  "Question": "Videoda doğru olan davranış aşağıdakilerden hangisidir?",
+  "A": "Araç sürücüsü beklemeli",
+  "B": "Mavi araba beklemeli",
+  "C": "Mavi araç sürücü ile iletişim kurmalı ",
+  "D": "Araç sürücüsü beklemeden geçmeli",
+  "Image": 1,
+  "Explaination": "Bunun bir döner kavşak olmadığını işaretlerden anlayabilirsiniz. Bu nedenle soldan gelen önceliklidir. Yani beklemek zorundasınınız.",
+  "Answer": "Araç sürücüsü beklemeli",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/92\/e6\/e4\/92e6e4eca723f61e4fa7ee900914a459_t1.mp4"
+ },
+ {
+  "Question": "Bu durumda nasıl davranmanız doğrudur?",
+  "A": "Hızlanırım ve sollama işlemine devam ederim",
+  "B": "Sollama işlemine aynı hızla devam ederim",
+  "C": "Mavi araçlı sürücüyü uyarırım",
+  "D": "Sollama işlemine son veririm ve sağ tarafta hiza alırım",
+  "Image": 1,
+  "Explaination": "Sollamak istediginiz araç hızlanıyor. Sonuç olarak, hız sınırını aşmadan geçemezsiniz. Sollama sürecini sonlandırmak en doğru davranıştır. Hızlanmaya devam ederseniz, maksimum hız sınırını aşmış olursunuz.",
+  "Answer": "Sollama işlemine son veririm ve sağ tarafta hiza alırım",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/b2\/57\/24\/b2572441fd94de463644ac3c1a0eba52_t1.mp4"
+ },
+ {
+  "Question": "Düz gitmeye devam etmek istiyorsunuz. Bu durumda nasıl doğru davranırsınız?",
+  "A": "Elektrikli Scooter'ın araç yolundan geçmesine izin vermem",
+  "B": "Kavşaktan ilk önce ben geçerim",
+  "C": "Kırmızı aracın sola sapmasına izin vermem",
+  "D": "Kırmızı aracın sola sapmasına izin veririm",
+  "Image": 1,
+  "Explaination": "Kırmızı aracın sola sapmasına izin veririm",
+  "Answer": "Kırmızı aracın sola sapmasına izin veririm",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/13\/7d\/69\/137d6928ca59d94a7f17f2022411ad84_t1.mp4"
+ }
+]

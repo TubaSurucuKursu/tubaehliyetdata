@@ -1,0 +1,57 @@
+[
+ {
+  "Question": "Burada nasıl davranmalısınız?",
+  "A": "A) Acil fren yaparım",
+  "B": "B) Kavşağı hızla geçerim",
+  "C": "C) Biraz yavaşlarım",
+  "D": "D) Hızımı 50'nin üzerine çıkarırım",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "A) Acil fren yaparım",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/09\/c7\/36\/09c73665cf5c2eee48034cc5a3ac92c0_t1.mp4"
+ },
+ {
+  "Question": "Düz gitmeye devam etmek istiyorsunuz. Bu durumda nasıl doğru davranırsınız?",
+  "A": "A) [Kırmızı] aracın sola saçmasına izin vermem",
+  "B": "B) Elektrikli Scooter'ın araç yolundan geçmesine izin vermem",
+  "C": "C) Kavşakta ilk önce ben geçerim",
+  "D": "D) [Kırmızı] aracın sola sapmasına izin veririm",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "D) [Kırmızı] aracın sola sapmasına izin veririm",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/13\/7d\/69\/137d6928ca59d94a7f17f2022411ad84_t1.mp4"
+ },
+ {
+  "Question": "Burada nasıl davranmalısınız?",
+  "A": "A) Sola dönerim",
+  "B": "B) Önceliğim nedeniyle hızlanırım",
+  "C": "C) Yavaşlarım",
+  "D": "D) [Kırmızı] transiti sollarım",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "C) Yavaşlarım",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/97\/8f\/b2\/978fb29cf7ba6d2510214560e6931fb9_t1.mp4"
+ },
+ {
+  "Question": "Burada nasıl doğru davranmalısınız?",
+  "A": "A) “Sarı” yandığından kavşağı hızla geçerim",
+  "B": "B) Olası geçiş trafiğine yol veririm",
+  "C": "C) Önceliğim nedeniyle hızlanırım",
+  "D": "D) Durma çizgisinde bir sonraki yanacak \"yeşil\" ışığı beklerim.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "B) Olası geçiş trafiğine yol veririm",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/1c\/f9\/0e\/1cf90efc864e626c8fb8fea733a8aed0_t1.mp4"
+ },
+ {
+  "Question": "Burada nasıl doğru davranmalısınız?",
+  "A": "A) Yayalar yüzünden durmalıyım",
+  "B": "B) Kamyon yüzünden durmalıyım",
+  "C": "C) Bisikletçi yüzünden durmalıyım",
+  "D": "D) Bisikletçi beni bekleyeceği için yoluma devam ederim",
+  "Image": 1,
+  "Explaination": "Karayolları Trafik Kanunu 53. Maddesi uyarınca motorlu araç sürücüleri sağa dönerken yayalara ve varsa bisikletlilere ilk geçiş hakkını vermek zorundadır. ",
+  "Answer": "C) Bisikletçi yüzünden durmalıyım",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/2a\/76\/8b\/2a768b8f1d6d444f092202e66a9d6829_t1.mp4"
+ }
+]

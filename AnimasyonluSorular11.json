@@ -1,0 +1,57 @@
+[
+ {
+  "Question": "Videodaki durum neden dolayı tehlikeli olabilir?\nI. [Kırmızı renkli binek otosundan]\nII. Karşıdan gelen trafikten\nIII. Traktörden",
+  "A": "A) Yalnız I",
+  "B": "B) Yalnız II",
+  "C": "C) I ve II",
+  "D": "D) II ve III ",
+  "Image": 1,
+  "Explaination": "Traktör yolda değil ve bu nedenle bir risk faktörü degil.Tehlikeli Eğim (İniş) Levhasından sonra yaklaşmakta olan trafiği göremiyorsunuz. Bu nedenle her an karşınıza araç çıkabilir. Kırmızı araba burada geçiyor, ancak yaklaşmakta olan şerit hakkında yeterli bilgi yok. İçeri girmek zorunda kalIrsa bu çok tehlikeli olabilir.",
+  "Answer": "C) I ve II",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/97\/67\/ae\/9767aea1f56ca3aadb1bc63db56eeda7_t1.mp4"
+ },
+ {
+  "Question": "Sollama yapmak istiyorsunuz. Bu durumda nasıl doğru davranırsınız?",
+  "A": "A) Sollama işlemine son veririm ve ağır vasıtanın arkasında kalırım",
+  "B": "B) Hızlanırım ve sollama işlemine hızla devam ederim",
+  "C": "C) Hızımı korurum ve sollama işlemine devam ederim",
+  "D": "D) Önümdeki ağır vasıtanın hızlanması için onu korna çalarak uyarırım.",
+  "Image": 1,
+  "Explaination": "Kırmızı araba geçsin ve geçene kadar sollama için bekleyin. Sollama işini kesin ve aracın arkasında kalın.",
+  "Answer": "A) Sollama işlemine son veririm ve ağır vasıtanın arkasında kalırım",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/35\/91\/ae\/3591ae1b543be8463a47ed67facd6224_t1.mp4"
+ },
+ {
+  "Question": "Verilen animasyonda hangi araç yanlış durmaktadır?\n\nI. İki araçta yanlış duruyor.\nII. [Kırmızı] \nII. [Sarı]",
+  "A": "A) Yalnız I",
+  "B": "B) Yalnız II",
+  "C": "C) Yalnız III",
+  "D": "D) II ve III",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhxUKUDgexwa7xRv8rb4RnBIrhNbN4uRVpg0ZMw2Ykj5DBP2iEhzHTFfLbdZKzmwNt6QQAbrXIk8NpYp3ocFTRvhiqdjMu8eFaITqFAOTDuQcZ3efTMjZdGk3pQnUAGdy8aOdowjIRdunTWQWjXzsEECEbdECQgrRERFbenYgEX7Bu_APy-cmBRIlBMzXKw\/s1600\/42dc426e964e58e64c93c0733e140995.jpg",
+  "Explaination": "Sadece kırmızı araba yanlış durmaktadır, sarı park edebilir. Yaya geçitlerinin önüne park ederken, en az 5 metrelik bir mesafe sağlanmalıdır, böylece yayalar akan trafiği zamanında görülebilir. Sarı araç için : Yaya geçitlerinden hemen sonra park etmeye izin verilir.",
+  "Answer": "B) Yalnız II",
+  "Video": 1
+ },
+ {
+  "Question": "Bu durumda nasıl davranmanız gerekir?\nI.  Hemen kuvvetli bir şekilde fren yaparım\nII. Sola yanaşırım\nIII.Şeridimden ayrılmam",
+  "A": "A) Yalnız I",
+  "B": "B) Yalnız II",
+  "C": "C) I ve II",
+  "D": "D) I ve III",
+  "Image": 1,
+  "Explaination": "Sola kaçmamalısın. Yaklaşan araçları engellersin ve en kötüsü yaklaşmakta olan trafiği tehlikeye sokarsınız. Bu boyutta bir nesne yoldaysa ve diğer yol kullanıcılarını tehlikeye atmadan tehlikeyi önleyemezseniz, acil fren yapılmalıdır. Sola kaçmak yaklaşmakta olan trafiği engelleyebilir veya tehlikeye atabilir.  Sağa kaçmak, hendek içine veya bir ağaca karşı sürebilirsin. Burada doğrudan engele yönlendirmek daha iyidir.",
+  "Answer": "D) I ve III",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/c0\/fb\/34\/c0fb342cc50fbc0593dcf4fa1ba0a256_t1.mp4"
+ },
+ {
+  "Question": "Burada nasıl davranmalısınız?\nI. Hızlanırım\nII. Hız keserim\nIII. Aracı sağ tarafa yanaştırırım",
+  "A": "A) Yalnız I",
+  "B": "B) Yalnız II",
+  "C": "C) I ve II",
+  "D": "D) II ve III",
+  "Image": 1,
+  "Explaination": "Bu noktada hızlanırsanız kırmızı aracın çarpışma riskini alırsınız. Hız kesmeniz sollanan kişinin sollama işlemini tamamlamasını kolaylaştırır. Aracı sağa doğru yanaştırırsanız kırmızı araba mümkün olduğunca erken içeri girebilir.",
+  "Answer": "D) II ve III",
+  "Video": "https:\/\/v1.pinimg.com\/videos\/mc\/expMp4\/ac\/6e\/9a\/ac6e9ae31efd96e44a0137ee6216a6c3_t1.mp4"
+ }
+]
