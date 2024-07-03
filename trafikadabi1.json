@@ -1,0 +1,101 @@
+[
+ {
+  "Question": "Trafik içinde sorumluluk, yardımlaşma, tahammül, saygı, fedakârlık, sabır vb. değerlere sahip olabilme yetisidir.\n\nBu cümlede tanımı yapılan kavram, aşağıdakilerden hangisidir?\n",
+  "A": "Mizaç",
+  "B": "Beden dili\n",
+  "C": "Trafik adabı\n",
+  "D": "Konuşma üslubu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Trafik adabı\n"
+ },
+ {
+  "Question": "Sürücü, trafik içinde yapacağı bir kural ihlalinde kendisinin ya da sevdiklerinin canını tehlikeye attığının farkında olmalıdır.\n\nBu farkındalığı kazanmak için yapılması gereken aşağıdakilerden hangisidir?",
+  "A": "Trafikteki her kuralın altında yatan güvenlik gerekçelerinin sorgulanıp öğrenilmesi\n",
+  "B": "Kural ihlalinin sonucunda sadece maddi ceza olduğunun düşünülmesi\n",
+  "C": "Karşılıklı saygının öncelikle başkalarından beklenmesi\n",
+  "D": "Kızgın ve yarışmacı motivasyon ile araç kullanılması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Trafikteki her kuralın altında yatan güvenlik gerekçelerinin sorgulanıp öğrenilmesi\n"
+ },
+ {
+  "Question": "Sürücünün trafik ortamında yaptığı davranışlardan hangisi, diğer sürücülerin dikkatinin dağılmasına ya da paniğe kapılmalarına sebep olabilir?\n",
+  "A": "Davranışlarının sonuçlarını düşünerek hareket etmesi\n",
+  "B": "Sürekli şerit değiştirerek (slalom yaparak) araç kullanması\n",
+  "C": "Aracını kullanırken trafik kurallarının bilincinde olması\n",
+  "D": "Trafik içindeki davranışlarının sorumluluğunu üstlenerek araç kullanması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Sürekli şerit değiştirerek (slalom yaparak) araç kullanması\n"
+ },
+ {
+  "Question": "Ters yönden gelen bir sürücüye “Bu sokak tek yönlü, herhalde siz girişteki levhayı görmediniz, lütfen daha dikkatli olun.” diyen bir sürücü, trafikte aşağıdaki değerlerden hangisine uygun davranmıştır?\n",
+  "A": "İnatlaşmaya\n",
+  "B": "Aşırı tepki göstermeye\n",
+  "C": "Kaba ve saldırgan davranmaya\n",
+  "D": "Trafik kültüründe birbirini uyarmaya",
+  "Image": 1,
+  "Explaination": 1
+ },
+ {
+  "Question": "Geçilmekte olan araç sürücüsünün yavaşlayıp geçme yapan araca kolaylık sağlaması durumu, trafikte aşağıdaki değerlerden hangisiyle ifade edilir?\n",
+  "A": "Bencillik\n",
+  "B": "İnatlaşmak",
+  "C": "Diğergamlık\n",
+  "D": "Sorumsuzluk",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Diğergamlık\n"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisinin trafikte öfke duygusuna kapılan sürücülerde görülme olasılığı diğer sürücülere göre daha fazladır?\n",
+  "A": "Dikkatin dağılması\n",
+  "B": "Kural ihlallerinin azalması\n",
+  "C": "Direksiyon hâkimiyetinin artması\n",
+  "D": "Kazaya karışma olasılığının azalması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Dikkatin dağılması\n"
+ },
+ {
+  "Question": "I.Orta refüjlere ve yol kenarlarına dikilen ağaçların zarar görmesi\n\nII.Köprü ve tünel gibi noktalarda yaşanan kazalarda ulaşımın aksaması\n\nIII. Trafo ve elektrik direğine çarpma gibi durumlarda kesintilerin yaşanması\n\nIV.Yakıt, kimyasal madde, tıbbi atık vs. yüklü araçların yaptığı kazalar neticesinde büyük ekolojik zararların görülmesi\n\nYukarıdakilerden hangileri kara yolunda meydana gelen trafik kazalarının kişiye, topluma, kamuya ve çevreye verdiği zararlardandır?",
+  "A": "I ve II.\n",
+  "B": "I, III ve IV.\n",
+  "C": "II, III ve IV.\n",
+  "D": "I, II, III ve IV.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "I, II, III ve IV."
+ },
+ {
+  "Question": "Aşağıdaki davranışlardan hangisi trafik adabına sahip bir sürücü için uygundur?\n",
+  "A": "Trafik polisi yoksa kırmızı ışıkta geçmek\n",
+  "B": "Sürekli şerit değiştirerek araç kullanmak\n",
+  "C": "Denetim korkusu olmadan emniyet kemerini takmak\n",
+  "D": "Elektronik denetleme sisteminin olmadığı yerlerde hız limitlerini aşmak",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Denetim korkusu olmadan emniyet kemerini takmak\n"
+ },
+ {
+  "Question": "Aşağıdaki temel değerlerden hangisini içselleştirmiş bir sürücü, trafikte kendinden çok başkalarını düşünür ve başkalarının iyiliği için fedakârlık yapar?\n",
+  "A": "Bencillik",
+  "B": "Diğergamlık\n",
+  "C": "Nezaketsizlik\n",
+  "D": "Hoşgörüsüzlük",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Diğergamlık\n"
+ },
+ {
+  "Question": "Sürücüler, beden dilini ve konuşma üslubunu da dikkate alarak trafik adabı açısından başarılı iletişim kurma becerilerini geliştirmek için aşağıdakilerden hangisini yapmalıdır?\n",
+  "A": "İnsanların değişebildiğine inanmalıdır.\n",
+  "B": "Dinlerken aynı zamanda değerlendirme eğiliminde olmalıdır.\n",
+  "C": "Karşısındakinin kişiliğini sevmediğinde zihnini ona kapatmalıdır.\n",
+  "D": "Tek bir olayın, birini anlamak için yeterli bir örnek olduğunu düşünmelidir.\n",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "İnsanların değişebildiğine inanmalıdır.\n"
+ }
+]
