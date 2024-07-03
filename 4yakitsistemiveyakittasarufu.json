@@ -1,0 +1,232 @@
+[
+ {
+  "Question": "Yakıt içerisinde toz, su veya pislik varsa motor nasıl çalışır?\n",
+  "A": "Yüksek devirde\n",
+  "B": "Zengin karışımla\n",
+  "C": "Yüksek performansla\n",
+  "D": "Düzensiz, tekleyerek",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Düzensiz, tekleyerek"
+ },
+ {
+  "Question": "Araçlarda yakıt tasarrufu sağlamak için aşağıdakilerden hangisi yapılmalıdır?\n",
+  "A": "Termostat çıkartılmalı\n",
+  "B": "Eskimiş bujiler değiştirilmeli\n",
+  "C": "Lastiklerin hava basıncı indirilmeli\n",
+  "D": "Motor yüksek devirde çalıştırılmalı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Eskimiş bujiler değiştirilmeli\n"
+ },
+ {
+  "Question": "I.Yüksek devirde araç kullanılması\n\nII.Ani hızlanma ve yavaşlamalar yapılması\n\nIII.Araca uygun ebatta lastikler kullanılması\n\nIV.Araç bakımlarının zamanında yaptırılması\n\nYukarıdakilerden hangileri yakıt tüketiminin artmasına neden olur?",
+  "A": "I ve II.\n",
+  "B": "I, III ve IV.\n",
+  "C": "II, III ve IV.\n",
+  "D": "I, II, III ve IV.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "I ve II.\n"
+ },
+ {
+  "Question": "Aracın gösterge panelinde aşağıdaki ikaz ışıklarından hangisinin yanıyor olması araç yakıtının bitmek üzere olduğunu bildirir?\n",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEim7JqNwGkHTnPNJMluk70-Y_KwRhi48qXew4fiyuPqbMSxSlDyENAsxzCcB7kXDWXObGI2NiicTuPQnnIW73gKScPB3GYtb6kAK9g7ZxQM9NpW4eFtzNejxELLG7VtRU1FxFjdUIKp4QGn6C84PyuYYhC_tai2kP6XFIvhih2sUBollo6YTsxQsYZjU496\/s1600\/Trafik%20Levhalar%C4%B1%285%29.jpg",
+  "Explaination": 1,
+  "Answer": "C)"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi yakıt tüketiminin artmasında sürücüden kaynaklanan kusurdur?\n",
+  "A": "Aşırı hız yapılması\n",
+  "B": "Frenlerin ayarsız olması\n",
+  "C": "Rölanti ayarının bozuk olması\n",
+  "D": "Lastiklerin havasının az olması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Aşırı hız yapılması\n"
+ },
+ {
+  "Question": "\"- Ani duruş ve hızlanmalardan kaçınılması\n\n- Tavsiye edilen tip ve ebatlarda araç lastiği kullanılması\n\n- Araçta yapılması gerekli bakım ve ayarların zamanında yapılması\n\nVerilenler sonucunda aşağıdakilerden hangisinin gerçekleşmesi beklenir?",
+  "A": "Çevre kirliliğinin artması\n",
+  "B": "Sürüş konforunun azalması\n",
+  "C": "Trafik yoğunluğunun artması\n",
+  "D": "Aracın daha az yakıt tüketmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Aracın daha az yakıt tüketmesi"
+ },
+ {
+  "Question": "I.Ani hızlanmalar yapılması\n\nII.Araç lastiklerinin eskimesi\n\nIII.Hava filtresinin değiştirilmesi\n\nYukarıdakilerden hangileri yakıt tüketiminin artmasına neden olur?",
+  "A": "Yalnız I\n",
+  "B": "I ve II.\n",
+  "C": "II ve III.\n",
+  "D": "I, II ve III.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "I ve II.\n"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi yakıt tüketiminin artmasına neden olmaz?\n",
+  "A": "Klimanın açık olması\n",
+  "B": "Hava filtresinin değiştirilmesi\n",
+  "C": "Ani duruş ve kalkış yapılması\n",
+  "D": "Camlar açık şekilde seyahat edilmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Hava filtresinin değiştirilmesi\n"
+ },
+ {
+  "Question": "Egzoz emisyon ölçümünün yapılması, araçların çevreye verdiği zararlardan hangisini önlemeye yönelik bir uygulamadır?\n",
+  "A": "Görüntü kirliliğini\n",
+  "B": "Gürültü kirliliğini\n",
+  "C": "Hava kirliliğini\n",
+  "D": "Su kirliliğini",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Hava kirliliğini\n"
+ },
+ {
+  "Question": "Aracın periyodik bakımı yapılırken aşağıdakilerden hangisinin değiştirilmemesi araç motorunun çalışmasını olumsuz etkiler?\n",
+  "A": "Fren balatasının\n",
+  "B": "Polen filtresinin\n",
+  "C": "Yakıt filtresinin\n",
+  "D": "Geri vites müşirinin",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Yakıt filtresinin\n"
+ },
+ {
+  "Question": "Araçta yakıt tasarrufu sağlamak için aşağıdakilerden hangisi yapılır?\n",
+  "A": "Motor yüksek devirde kullanılır.\n",
+  "B": "Eskiyen buji kabloları değiştirilir.\n",
+  "C": "Trafiğin yoğun olduğu yollar seçilir.\n",
+  "D": "Araç yokuş aşağı inerken vites boşa alınıp kontak kapatılır.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Eskiyen buji kabloları değiştirilir.\n"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi motorda yapılan ve yakıt tasarrufuna etki eden ayarlardan biri değildir?\n",
+  "A": "Far ayarı\n",
+  "B": "Buji ayarı\n",
+  "C": "Avans ayarı\n",
+  "D": "Rölanti ayarı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Far ayarı\n"
+ },
+ {
+  "Question": "Aracın gösterge panelinde bulunan şekildeki gösterge, sürücüye neyi bildirir?\n",
+  "A": "Motor yağ basıncını\n",
+  "B": "Fren hidrolik seviyesini\n",
+  "C": "Depodaki yakıt miktarını\n",
+  "D": "Motor soğutma suyu sıcaklığını",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEipLGqdYAy1bb6w5iU4CTfSSx1_KRhSt3AuYyD6CX2VkzKmu4Ke4fHBDF5_2lD20TA98BXM_gl6yGZILzmyYeYUxN74T7JAMIFLndUxB-kf5a-m-olk43I37t-RWl8zqiikcMmnosoihSQuUjgU-FxJUvpyQ8JvJQLoLS9UjYI1qKoDAD0fSjJg6zWnkYSm\/s1600\/Trafik%20Levhalar%C4%B1%286%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "Depodaki yakıt miktarını\n"
+ },
+ {
+  "Question": "Hava filtresi kirli ise motor nasıl bir karışımla çalışır?\n",
+  "A": "Fakir\n",
+  "B": "Zengin\n",
+  "C": "Normal\n",
+  "D": "Az yakıtlı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Zengin\n"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi motor rölanti devrinin yüksek olmasına bağlı olarak meydana gelir?\n",
+  "A": "Yakıt tüketiminin artması\n",
+  "B": "Yakıt tüketiminin düşmesi\n",
+  "C": "Motorun sarsıntılı çalışması\n",
+  "D": "Motorda yağlamanın olmaması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Yakıt tüketiminin artması\n"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisinin yapılması araçta yakıt tasarrufu sağlar?\n",
+  "A": "Araç üstü tavan bagajı kullanılması\n",
+  "B": "Tam gazdan ve ani hızlanmalardan kaçınılması\n",
+  "C": "Araçta yapılması gerekli bakım ve ayarların ihmal edilmesi\n",
+  "D": "Tavsiye edilmeyen tip ve ebatlarda araç lastiği kullanılması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Tam gazdan ve ani hızlanmalardan kaçınılması\n"
+ },
+ {
+  "Question": "Motor çalışır durumda iken, aracın gösterge panelinde bulunan şekildeki uyarı lambasının yanıyor olması neyi bildirir?\n",
+  "A": "Araç yakıtının bitmek üzere olduğunu\n",
+  "B": "Araç kapılarından birinin açık kaldığını\n",
+  "C": "Motor yağının değiştirilmesi gerektiğini\n",
+  "D": "Ön ısıtma bujilerinin çalışmakta olduğunu",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjAgkI9e7KtfIvVJfFcul2a2Ln5MK6goh5YN6ZJFavcawAwLGqpCLG1Gi5fb5Gqk-cJq_CGtZGfTx4NN_DwUg-JkQ9hlsbkOgYLT6-TkatcQaFU7LNCFO-jJiZUtN9GgH61XhR8ZvtSBgcwQd8cJLSYyMzZ-wZO5wWoUifRZEIpYeGwqd-kxANDg936wnRi\/s1600\/Trafik%20Levhalar%C4%B1%284%29.png",
+  "Explaination": 1,
+  "Answer": "Araç yakıtının bitmek üzere olduğunu\n"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi, dizel motorlarda depodaki yakıtın bitmesi sonucunda meydana gelir?\n",
+  "A": "Hava filtresinin kirlenmesi\n",
+  "B": "Yakıt deposunun delinmesi\n",
+  "C": "Yakıt sisteminin hava yapması\n",
+  "D": "Depo kapağı ve çevresinin kirlenmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Yakıt sisteminin hava yapması\n"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi yakıt sarfiyatını artırır?\n",
+  "A": "Rölanti devrinin yüksek olması\n",
+  "B": "Fren hidroliğinin tamamlanması\n",
+  "C": "Soğutma suyuna antifriz katılması\n",
+  "D": "Lastik hava basınçlarının kontrol edilmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Rölanti devrinin yüksek olması\n"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi araçta fazla yakıt tüketimine sebep olur?\n",
+  "A": "Bujilerin yeni olması\n",
+  "B": "Yakıt borularının uzun olması\n",
+  "C": "Depodaki yakıt seviyesinin düşmesi\n",
+  "D": "Tavsiye edilmeyen araç lastiği kullanılması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Tavsiye edilmeyen araç lastiği kullanılması"
+ },
+ {
+  "Question": "I-Araç üstü tavan bagajı kullanılması\n\nII-Tam gazdan ve ani hızlanmalardan kaçınılması\n\nIII-Tavsiye edilen tip ve ebatlarda araç lastiği kullanılması\n\nVerilenlerden hangilerinin yapılması araçta yakıt tasarrufu sağlar?",
+  "A": "Yalnız I\n",
+  "B": "I ve II\n",
+  "C": "II ve III\n",
+  "D": "I, II ve III",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "II ve III\n"
+ },
+ {
+  "Question": "Araçta yakıt tasarrufu sağlamak için aşağıdakilerden hangisinin yapılması doğrudur?\n",
+  "A": "Fazla süratten kaçınılması\n",
+  "B": "Ani duruş ve kalkış yapılması\n",
+  "C": "Sürekli sert ve ani fren yapılması\n",
+  "D": "Araç üstü tavan bagajı kullanılması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Fazla süratten kaçınılması\n"
+ },
+ {
+  "Question": "Araç lastiklerinin yetersiz şişirilmesi aşağıdakilerden hangisine neden olur?\n",
+  "A": "Radyatör peteklerinin tıkanmasına\n",
+  "B": "Şarj lambasının yanmasına\n",
+  "C": "Yakıt tüketiminin artmasına\n",
+  "D": "El freninin arızalanmasına\n",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Yakıt tüketiminin artmasına\n"
+ }
+]

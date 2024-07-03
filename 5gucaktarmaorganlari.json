@@ -1,0 +1,72 @@
+[
+ {
+  "Question": "Motor hareketinin vites kutusuna iletilmesini sağlayan sistem aşağıdakilerden hangisidir?\n",
+  "A": "Marş\n",
+  "B": "Şarj",
+  "C": "Ateşleme\n",
+  "D": "Kavrama",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Kavrama"
+ },
+ {
+  "Question": "Şekildeki araç güç aktarma organlarının adları hangi seçenekte doğru olarak verilmiştir?\n",
+  "A": "I. Şaft - II. Diferansiyel - III. Aks\n",
+  "B": "I. Şaft - II. Aks - III. Diferansiyel\n",
+  "C": "I. Aks - II. Diferansiyel - III. Şaft\n",
+  "D": "I. Diferansiyel - II. Aks - III. Şaft",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEh-YuCdZ0AWn0hhG4uHikmRDiqzvaaO9LD34fz3oLaiAFrjq-rMrpaauuRFVgdwPn0_ois_kRGhzyS3ukkG38lHyozY1ezhCwoNthKrxwn5RnaMezWdmgrZE_zY_gB-ywj9BMKn2Aq3Ac-hRrS3TDQneNN5goKQjBfz6Bs_P6-47zs4BtGdfHquGLq6kvjV\/s1600\/Trafik%20Levhalar%C4%B1-min.jpg",
+  "Explaination": 1,
+  "Answer": "I. Şaft - II. Diferansiyel - III. Aks\n"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi araç güç aktarma organına aittir?\n",
+  "A": "Şaft\n",
+  "B": "Alternatör\n",
+  "C": "Marş motoru\n",
+  "D": "Amortisör",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Şaft\n"
+ },
+ {
+  "Question": "Şekilde soru işareti (?) ile gösterilen ve şafttan aldığı hareketi aksa ileten güç aktarma organının adı nedir?\n",
+  "A": "Balata\n",
+  "B": "Amortisör\n",
+  "C": "Vites kutusu\n",
+  "D": "Diferansiyel",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEidtLgW8WbIdyCrp0-3-EPY4PMdO6wv3P5sB-hyZDyXJ9hFOnJINBEntfHwEp9Vw2n5USturUZNVR6n0DhhdUOE0npfJ2VoKjRgWyD9yPF_gzepFd1xcsrG97dBZ8M4HPsITMRqWsF5s16iItGd1cwkZs91v38fuBJxUt5evfnZTckEzWOTQjAUxQgGhdpt\/s1600\/Trafik%20Levhalar%C4%B1%20%282%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "Diferansiyel"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi motorla vites kutusu arasındaki irtibatı keserek, vites değiştirme imkânı sağlayan güç aktarma organıdır?\n",
+  "A": "Amortisör\n",
+  "B": "Helezon yay\n",
+  "C": "Fren balatası\n",
+  "D": "Kavrama (Debriyaj)",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Kavrama (Debriyaj)"
+ },
+ {
+  "Question": "Şekilde soru işareti (?) ile gösterilen güç aktarma organının adı nedir?\n",
+  "A": "Volan",
+  "B": "Aks",
+  "C": "Kavrama\n",
+  "D": "Vites kutusu",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiGRZUXPxLhLg9U9ZIk8PDrCp3BTz2cD0PrUWnR1my8MpE0pAD0NUDfnedGyQ7hGolwOOYDPRCtVfIosnvwByVSASWM4GPTiS0CUeIJyPsEJJkwUHfzVhbvTXirwBk5ox39rTAdQnVhFjACq32GZYgyw5b1wsv7yR1KlK7NRGlEvOMyUc-F0QrdLiQTZT18\/s1600\/Trafik%20Levhalar%C4%B1%20%281%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "Aks"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi virajlarda çekici tekerleklerin farklı hızlarda dönmesini sağlar?\n",
+  "A": "Amortisör",
+  "B": "Direksiyon\n",
+  "C": "Diferansiyel\n",
+  "D": "Kilometre sayacı\n",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Diferansiyel\n"
+ }
+]

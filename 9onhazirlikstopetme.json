@@ -1,0 +1,242 @@
+[
+ {
+  "Question": "I. El freninin çekilmesi\n\nII. Kontağın kapatılması\n\nIII. LPG’li ise aracın bagajında bulunan tüpün vanasının kapatılması\n\nYukarıdakilerden hangileri kazaya uğrayan araçta alınması gereken güvenlik önlemlerindendir?",
+  "A": "Yalnız I.\n",
+  "B": "I ve II.\n",
+  "C": "II ve III.\n",
+  "D": "I, II ve III.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "I, II ve III."
+ },
+ {
+  "Question": "Seyir hâlindeyken araçtan “sürekli yakıt kokusu” alınması durumunda aşağıdakilerden hangisi yapılır?\n",
+  "A": "Açık camlar kapatılır.\n",
+  "B": "Önemsenmez yola devam edilir.\n",
+  "C": "Lastiklerin hava basıncı kontrol edilir.\n",
+  "D": "Trafik kurallarına uyarak durulur ve kontak kapatılır.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Trafik kurallarına uyarak durulur ve kontak kapatılır."
+ },
+ {
+  "Question": "Seyahate başlamadan önce koltuk ve ayna ayarlarının yapılmasının sebebi aşağıdakilerden hangisidir?\n",
+  "A": "Sürüş konforu ve güvenliğini sağlamak\n",
+  "B": "Aracın ivmelenme süresini artırmak\n",
+  "C": "Lastiklerin ömrünü uzatmak\n",
+  "D": "Yakıt tüketimini azaltmak",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Sürüş konforu ve güvenliğini sağlamak\n"
+ },
+ {
+  "Question": "Dizel motor kullanan bir araca yanlışlıkla benzin konulması durumunda aşağıdakilerden hangisinin yapılması uygundur?\n",
+  "A": "Aracın düşük hızda sürülmesi\n",
+  "B": "Yakıt deposunun boşaltılması\n",
+  "C": "Aracın yüksek devirde kullanılması\n",
+  "D": "Lastik hava basınçlarının düşürülmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Yakıt deposunun boşaltılması\n"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi aracı kullanmaya başlamadan önce yapılması gereken hazırlıklardan biri değildir?\n",
+  "A": "Klimanın açılması\n",
+  "B": "Koltuğun ayarlanması\n",
+  "C": "Aynaların ayarlanması\n",
+  "D": "Emniyet kemerinin takılması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Klimanın açılması\n"
+ },
+ {
+  "Question": "Seyir hâlindeyken araçtan “sürekli yakıt kokusu” alınması durumunda aşağıdakilerden hangisi yapılır?\n",
+  "A": "Antifriz kontrol edilir.\n",
+  "B": "Önemsenmez yola devam edilir.\n",
+  "C": "Lastiklerin hava basıncı kontrol edilir.\n",
+  "D": "Trafik kurallarına uyarak durulur ve kontak kapatılır.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Trafik kurallarına uyarak durulur ve kontak kapatılır."
+ },
+ {
+  "Question": "Marşa basıldığında motor dönüyor ancak çalışmıyorsa ilk olarak aşağıdakilerden hangisi kontrol edilmelidir?\n",
+  "A": "Bujiler",
+  "B": "Akü suyu\n",
+  "C": "Motor yağ seviyesi\n",
+  "D": "Depodaki yakıt seviyesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Depodaki yakıt seviyesi"
+ },
+ {
+  "Question": "Periyodik bakımda aşağıdakilerden hangisinin değiştirilmemesi araç motorunun çalışmasını olumsuz etkiler?\n",
+  "A": "Polen filtresinin\n",
+  "B": "Yağ filtresinin\n",
+  "C": "Araç lastiklerinin\n",
+  "D": "Cam sileceklerinin",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Yağ filtresinin\n"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi araca binmeden önce yapılması gereken kontrollerdendir?\n",
+  "A": "Ayna ayarları\n",
+  "B": "Yakıt seviyesi\n",
+  "C": "Araç lastikleri\n",
+  "D": "Koltuk ayarları",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Araç lastikleri\n"
+ },
+ {
+  "Question": "Yağmurlu havada, sileceklerin camı yeteri kadar temiz silememesinin sebebi aşağıdakilerden hangisidir?\n",
+  "A": "Havanın serin olması\n",
+  "B": "Silecek lastiklerinin eskimesi\n",
+  "C": "Cam suyu seviyesinin azalması\n",
+  "D": "Silecek motorunun yavaş çalışması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Silecek lastiklerinin eskimesi\n"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisinin her periyodik bakımda değiştirilmesi gerekir?\n",
+  "A": "Polen filtresinin\n",
+  "B": "Fren hidroliğinin",
+  "C": "Araç lastiklerinin\n",
+  "D": "Soğutma suyunun",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Polen filtresinin\n"
+ },
+ {
+  "Question": "Aşağıdaki durumların hangisinde aracın kurallara uygun olarak durdurulması ve kontağın kapatılması gerekir?\n",
+  "A": " Araç yakıtının azalması\n",
+  "B": "Klimanın yeteri kadar serinletmemesi\n",
+  "C": "Araçtan yanık kablo kokusunun gelmesi\n",
+  "D": "Gösterge panelinde cam rezistans lambasının yanması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Araçtan yanık kablo kokusunun gelmesi\n"
+ },
+ {
+  "Question": "Soğutma suyunun çıkışı veya girişine yerleştirilen ve motordaki soğutma suyu sıcaklığının belirli bir seviyede tutulmasını sağlayan araç aşağıdakilerden hangisidir?\n",
+  "A": "Buji\n",
+  "B": "Enjektör\n",
+  "C": "Termostat",
+  "D": "Su pompası",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Termostat"
+ },
+ {
+  "Question": "I.Lastik hava basınçlarının ve yakıt seviyesinin kontrol edilmesi\n\nII.Aydınlatma ve sinyal sisteminin düzgün çalışıp çalışmadığının kontrol edilmesi\n\nIII.Ön koltuklar, kafalıkları ve aynanın beden ölçülerine uygun olarak ayarlanması\n\nVerilenlerden hangileri, aracı kullanmaya başlamadan önce yapılması gereken hazırlıklardandır?",
+  "A": "Yalnız I\n",
+  "B": "Yalnız II\n",
+  "C": "Yalnız III\n",
+  "D": "I, II ve III.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "I, II ve III."
+ },
+ {
+  "Question": "Seyir hâlindeyken motordan “anormal sesler” gelmesi durumunda aşağıdakilerden hangisi yapılır?\n",
+  "A": "Motorun devri artırılır.\n",
+  "B": "Açık camlar varsa kapatılır.\n",
+  "C": "Önemsenmez yola devam edilir.\n",
+  "D": "Trafik kurallarına uyarak durulur ve kontak kapatılır.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Trafik kurallarına uyarak durulur ve kontak kapatılır."
+ },
+ {
+  "Question": "Araçlarda hangisinin bulunması, olası bir kaza anında ölüm ve yaralanma riskini azaltır?\n",
+  "A": "Alarm\n",
+  "B": "Hava yastığı\n",
+  "C": "Merkezi kilit\n",
+  "D": "Hız sabitleyici",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Hava yastığı\n"
+ },
+ {
+  "Question": "Çarpışma durumunda otomatik olarak şişerek sürücü ve yolcuların ölüm ve yaralanmalarını azaltan pasif güvenlik sisteminin adı nedir?\n",
+  "A": "ABS\n",
+  "B": "Start-Stop\n",
+  "C": "Hava yastığı\n",
+  "D": "Hafızalı koltuk",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Hava yastığı\n"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisinin motor çalışma sıcaklığına ulaşmadan önce yapılması uygun değildir?\n",
+  "A": "Ani olarak gaz verilmesi\n",
+  "B": "Yan aynaların kontrol edilmesi\n",
+  "C": "Sol sinyal lambalarının yakılması\n",
+  "D": "Vitesin yumuşak bir şekilde yükseltilmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Ani olarak gaz verilmesi\n"
+ },
+ {
+  "Question": "Motor çalışır durumda iken aracın gösterge panelinde yağ basıncı ikaz ışığı yanıyorsa aşağıdakilerden hangisi yapılır?\n",
+  "A": "Motor devri düşürülür.\n",
+  "B": "Motor devri yükseltilir.\n",
+  "C": "Motor hemen durdurulur.\n",
+  "D": "Motor rölantide çalıştırılır.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Motor hemen durdurulur.\n"
+ },
+ {
+  "Question": "Egzoz susturucusu, motordaki basınçlı yanmış gazların çıkarken oluşturacağı sesin azaltılmasında görev yapar.\n\nBuna göre, araçlardaki egzoz susturucusu çıkarılırsa ne olması beklenir?",
+  "A": "Gürültü kirliliğinin artması\n",
+  "B": "Motorun ısınarak stop etmesi\n",
+  "C": "Gürültü kirliliğinin en aza inmesi\n",
+  "D": "Egzozdan siyah renkte duman çıkması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Gürültü kirliliğinin artması\n"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi araçlarda egzoz gaz emisyonlarını azaltmak için kullanılır?\n",
+  "A": "Egzoz supabı\n",
+  "B": "Emme manifoldu\n",
+  "C": "Egzoz manifoldu\n",
+  "D": "Katalitik konvertör",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Katalitik konvertör"
+ },
+ {
+  "Question": "Araçların orijinal sistemlerinde yer alan egzoz borusu ve susturucunun korunması ile aşağıdakilerden hangisi amaçlanır?\n",
+  "A": "Gürültü kirliliğinin azaltılması\n",
+  "B": "Trafik yoğunluğunun azaltılması\n",
+  "C": "Temiz olmayan yakıt kullanılması\n",
+  "D": "Kazalara karşı güvenliğin artırılması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Gürültü kirliliğinin azaltılması\n"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi yakıt sisteminde yapılan kontrellerden biri değildir?\n",
+  "A": "Antifriz kontrolü\n",
+  "B": "Yakıt filtresi kontrolü\n",
+  "C": "Yakıt kaçağı kontrolü\n",
+  "D": "Yakıt seviyesi kontrolü",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Antifriz kontrolü\n"
+ },
+ {
+  "Question": "Aracın kullanma kılavuzuna göre, belirli kilometre dolunca aşağıdaki parçalardan hangisi değiştirilir?\n",
+  "A": "Buji\n",
+  "B": "Manifold\n",
+  "C": "Teker jantı\n",
+  "D": "Vites kutusu\n",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Buji\n"
+ }
+]

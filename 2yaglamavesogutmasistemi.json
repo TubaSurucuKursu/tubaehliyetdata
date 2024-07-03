@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Kışın aşırı soğuktan dolayı motor soğutma suyu donduğu zaman meydana gelen genleşme kuvveti; silindir bloğu, silindir kapağı ve radyatörü çatlatabilir.\n\nBuna göre donmayı önlemek için motor soğutma suyuna aşağıdakilerden hangisinin yeterli miktarda karıştırılması gerekir?",
+  "A": "Asit\n",
+  "B": "Antifriz\n",
+  "C": "Saf su\n",
+  "D": "Motor yağı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Antifriz\n"
+ },
+ {
+  "Question": "Aracın gösterge panelinde bulunan şekildeki gösterge sürücüye neyi bildirir?",
+  "A": "Karterdeki yağ miktarını\n",
+  "B": "Depodaki yakıt miktarını\n",
+  "C": "Soğutma suyu sıcaklığını\n",
+  "D": "Radyatördeki su seviyesini",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiYX9JtSvGDR6lWE_sofkkDyohx_skEi5OdpmwXkibI02epa8QSiPjl_LMeA5XCWJODQHVyAiH_26V8dpgxPdsZX7naosc4sEDGzb7S6kBvNzXxjEi63eYLBAv1_iQCZNhLCFNbf-Z9hBbNtOI8GIHFlr8z6LBOMIelO6TPVf-VsHS-mFytEyqguWS-_PQU\/s1600\/Trafik%20Levhalar%C4%B1%283%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "Soğutma suyu sıcaklığını\n"
+ },
+ {
+  "Question": "I-Akü kontrolü\n\nII-Lastik kontrolü\n\nIII-Antifriz kontrolü\n\nYukarıda verilenlerden hangileri, aracın kış koşullarına hazırlanmasında alınması gereken önlemlerdendir?",
+  "A": "Yalnız I\n",
+  "B": "I ve II\n",
+  "C": "II ve III\n",
+  "D": "I, II ve III",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "I, II ve III"
+ },
+ {
+  "Question": "Şekilde soru işareti (?) ile gösterilen kapaktan motora ne konulur?\n",
+  "A": "Antifriz\n",
+  "B": "Motor yağı\n",
+  "C": "Fren hidroliği\n",
+  "D": "Motor soğutma suyu",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjfNPEkJoTeo7Oqt167x6E7CWb1bNUvcGiT57XmpfzAN120E5LQBof6Iz2dPJn_e_zeBHJsY8sGpqXCvht1A6LQjvE-s9E5NvbJhURoAYBwSforREjF4bCLPwTllm5iLXfH7QPkN5uQT0PFbCc8Ld2-IJ-0gwVYdSSdDLaiLt3bRqnhkcx85ciEd549QNFC\/s1600\/Trafik%20Levhalar%C4%B1%284%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "Motor yağı\n"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi motor yağının eksilmesine neden olur?\n",
+  "A": "Fren balatalarının aşınması\n",
+  "B": "Karter contasının yırtılması\n",
+  "C": "Hava filtresinin kirlenmesi\n",
+  "D": "Rot ayarının bozulması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Karter contasının yırtılması\n"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi motor parçalarının ve motor yağının aşırı ısınmasını önler?\n",
+  "A": "Cam suyu\n",
+  "B": "Fren hidroliği\n",
+  "C": "Akü elektroliti\n",
+  "D": "Motor soğutma suyu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Motor soğutma suyu"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi motordaki yağın görevidir?\n",
+  "A": "Yakıt tüketimini artırmak\n",
+  "B": "Tekerleğe gelen yükü azaltmak\n",
+  "C": "Motorun erken ısınmasını sağlamak\n",
+  "D": "Sürtünmeye bağlı aşınmayı azaltmak",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Sürtünmeye bağlı aşınmayı azaltmak"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi motor soğutma suyunun azalmasına sebep olur?\n",
+  "A": "Debriyajın kaçırması\n",
+  "B": "Radyatörün su sızdırması\n",
+  "C": "Isıtma bujilerinin arızalanması\n",
+  "D": "Hararet göstergesinin arızalanması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Radyatörün su sızdırması\n"
+ },
+ {
+  "Question": "Marşa basılıp motor çalıştığında, aracın gösterge panelinde bulunan aşağıdaki ikaz ışıklarından hangisinin sönmesi gerekir?\n",
+  "A": "Kısa farlar ikaz ışığı\n",
+  "B": "Yağ basıncı ikaz ışığı\n",
+  "C": "El freni çekili ikaz ışığı\n",
+  "D": "Sinyal lambası ikaz ışığı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Yağ basıncı ikaz ışığı\n"
+ },
+ {
+  "Question": "Soğutma suyunun çıkışı veya girişine yerleştirilen ve motordaki soğutma suyu sıcaklığının belirli bir seviyede tutulmasını sağlayan araç aşağıdakilerden hangisidir?\n",
+  "A": "Buji\n",
+  "B": "Enjektör\n",
+  "C": "Termostat\n",
+  "D": "Su pompası",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Termostat\n"
+ },
+ {
+  "Question": "Motorda çalışan parçaların temizliğini hangi sistem sağlar?\n",
+  "A": "Yağlama sistemi\n",
+  "B": "Şarj sistemi\n",
+  "C": "Ateşleme sistemi\n",
+  "D": "Soğutma sistemi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Yağlama sistemi\n"
+ },
+ {
+  "Question": "I.Aşınmayı azaltmak\n\nII.Sürtünmeyi azaltmak\n\nIII.Yakıt tüketimini artırmak\n\nYukarıdakilerden hangileri motor yağının görevlerindendir?",
+  "A": "Yalnız I\n",
+  "B": "I ve II\n",
+  "C": "II ve III\n",
+  "D": "I, II ve III",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "I ve II\n"
+ },
+ {
+  "Question": "Motor soğutma suyuna kışın donmaması için aşağıdakilerden hangisi yeterli miktarda karıştırılır?\n",
+  "A": "Saf su\n",
+  "B": "Antifriz\n",
+  "C": "Motor yağı\n",
+  "D": "Fren hidroliği",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Antifriz\n"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi motor soğutma suyunun azalmasına sebep olur?\n",
+  "A": "Fren balatalarının aşınması\n",
+  "B": "Isıtma bujilerinin arızalanması\n",
+  "C": "Hararet göstergesinin arızalanması\n",
+  "D": "Radyatör hortumlarının su sızdırması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Radyatör hortumlarının su sızdırması"
+ },
+ {
+  "Question": "Radyatöre konulacak su peteklerin neresinde olmalıdır?\n",
+  "A": "Altında\n",
+  "B": "Üzerinde\n",
+  "C": "Ortasında\n",
+  "D": "Hizasında",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Üzerinde\n"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisinin, normalin çok altında eksilmesi veya özelliğini kaybetmesi durumunda motor aşırı ısınarak zarar görür?\n",
+  "A": "Antifriz",
+  "B": "Fren hidroliği\n",
+  "C": "Motor yağı\n",
+  "D": "Akü elektroliti",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Motor yağı\n"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi, motorun soğutma sisteminde donmayı önlemenin yanı sıra soğutma sıvısının geçtiği yerlerde korozyonu, paslanmayı ve kireç oluşumunu da engelleyerek parçaların ömrünü artırır?\n",
+  "A": "Yağ\n",
+  "B": "Asit",
+  "C": "Saf su\n",
+  "D": "Antifriz",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Antifriz"
+ },
+ {
+  "Question": "Motordan gelen sıcak suyu, bünyesinde bulunan çok ince hava temas yüzeyleri (petekler) aracılığı ile soğutan parçaya - - - - denir.\n\nVerilen cümlede boş bırakılan yere, aşağıdakilerden hangisinin yazılması uygundur?",
+  "A": "Radyatör\n",
+  "B": "Alternatör\n",
+  "C": "Amortisör\n",
+  "D": "Distribütör",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Radyatör\n"
+ },
+ {
+  "Question": "Motor çalışır durumda iken aracın gösterge panelinde şekildeki ikaz ışığının yanıyor olmasının sebebi, aşağıdakilerden hangisi olabilir?\n",
+  "A": "Depodaki yakıtın azalması\n",
+  "B": "Yağ seviyesinin azalması\n",
+  "C": "Fren hidroliğinin eksilmesi\n",
+  "D": "Radyatörde antifrizin olmaması",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEg0xR1GimFl_FAQ9XNSoNBbod-7kAnElaI-UdvSjah84l-qH3y6D5Fcn3n1Cx_Jw5Xtx1L1yoCVJlP34arwcMxrT3FKpYx3nkomRwY0CZ2fdWUMYFV_bbdK3JRuvTOQF6tq3NFDMRdoB8cyFKCpcUVq7UbxrIEO7P7KQjPdPjPM0ujS87Xl7Dyd3YD7Pxtx\/s1600\/Trafik%20Levhalar%C4%B1%281%29-min.png",
+  "Explaination": 1,
+  "Answer": "Yağ seviyesinin azalması\n"
+ },
+ {
+  "Question": "Radyatördeki su miktarının azalması aşağıdakilerden hangisine neden olur?\n",
+  "A": "Motorun hararet yapmasına\n",
+  "B": "Motor devrinin yükselmesine\n",
+  "C": "Klimanın düzensiz çalışmasına\n",
+  "D": "Akünün kısa zamanda bitmesine",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Motorun hararet yapmasına\n"
+ },
+ {
+  "Question": "Motor çalışır durumda iken aracın gösterge panelinde yağ basıncı ikaz ışığı yanıyorsa sebebi aşağıdakilerden hangisi olabilir?\n",
+  "A": "Fren hidroliğinin eksilmesi\n",
+  "B": "Karterde yağın kalmaması\n",
+  "C": "Depodaki yakıtın azalması\n",
+  "D": "Radyatörde antifrizin olmaması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Karterde yağın kalmaması\n"
+ },
+ {
+  "Question": "Motor yağının zamanında değiştirilmemesi aşağıdakilerden hangisine neden olur?\n",
+  "A": "Motorun verimli çalışmasına\n",
+  "B": "Aracın daha yavaş gitmesine\n",
+  "C": "Motordaki aşıntıların artmasına\n",
+  "D": "Akünün daha çabuk bitmesine\n",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Motordaki aşıntıların artmasına\n"
+ }
+]

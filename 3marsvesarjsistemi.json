@@ -1,0 +1,162 @@
+[
+ {
+  "Question": "I.Akü şarjının azalması\n\nII.Fren balatalarının azalması\n\nIII.Motor yağının özelliğini kaybetmesi\n\nAracın çok uzun süre kullanılmadan bekletilmesi sonucunda yukarıdakilerden hangileri meydana gelebilir?",
+  "A": "Yalnız III",
+  "B": "I ve II.\n",
+  "C": "I ve III.\n",
+  "D": "I, II ve III.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "I ve III.\n"
+ },
+ {
+  "Question": "Marş yapıldığında gösterge ışıkları yanıyor ancak marş motoru dönmüyorsa problem aşağıdakilerden hangisi olabilir?\n",
+  "A": "Yakıt bitmiştir.\n",
+  "B": "Batarya zayıflamıştır.\n",
+  "C": "Lastik basınçları düşüktür.\n",
+  "D": "Motor yağ seviyesi azalmıştır.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Batarya zayıflamıştır.\n"
+ },
+ {
+  "Question": "I.Şarj\n\nII.ABS\n\nIII.Yağ basıncı\n\nVerilen ikaz lambalarından hangilerinin araç gösterge panelinde yanması aracın derhal durdurulmasını ve kontağın kapatılmasını gerektirir?",
+  "A": "Yalnız III\n",
+  "B": "I ve II.\n",
+  "C": "I ve III.\n",
+  "D": "II ve III.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "I ve III.\n"
+ },
+ {
+  "Question": "Araç motorunun çalışması için ilk hareketi veren sistem aşağıdakilerden hangisidir?\n",
+  "A": "Marş sistemi\n",
+  "B": "Yağlama sistemi\n",
+  "C": "Yakıt sistemi\n",
+  "D": "Ateşleme sistemi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Marş sistemi\n"
+ },
+ {
+  "Question": "Araç park hâlindeyken park lambalarının açık bırakılması aşağıdakilerden hangisine neden olur?\n",
+  "A": "Jantın eğilmesine\n",
+  "B": "Akünün boşalmasına\n",
+  "C": "Fren balatalarının aşınmasına\n",
+  "D": "Lastik hava basıncının düşmesine",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Akünün boşalmasına\n"
+ },
+ {
+  "Question": "Motoru çalıştırırken uzun süreli marş yapılması aküye ve marş motoruna zarar verir.\n\nBuna göre, marş durumunda marş motoru dönmüyorsa sorun aşağıdakilerin hangisinden kaynaklanmış olabilir?",
+  "A": "Akünün boşalmasından\n",
+  "B": "Akünün tam şarjlı olmasından\n",
+  "C": "Hava filtresinin kirlenmesinden\n",
+  "D": "Akü kutup başlarının sıkı olmasından",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Akünün boşalmasından\n"
+ },
+ {
+  "Question": "Aracın kontak anahtarı motoru çalıştırmayacak şekilde açıldığında, gösterge panelinde bulunan şekildeki akü şarj ikaz ışığının yanması gerekir.\n\nYanmıyorsa, arıza aşağıdakilerden hangisinde olabilir?",
+  "A": "Marş motorunda\n",
+  "B": "Soğutma fanında\n",
+  "C": "Motor devir göstergesinde\n",
+  "D": "Akü şarj ikaz ışığının ampülünde",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEh5iJOpnbB5h3AouC0t1Bm-KO8C_tiZf2xcO4VZspOlOGvvDyaJG6783urhxMFvXMx8PbnqQtPHwxQiqG2LfaRXdMrYF8QgB4w45Znwk2JpGcvTWXcnqgdCb7QY-BYT_QF1fOxnfFd2NWBiPLeM7xJaPa0RgJcmRALHvfwUGScyEs6S0GLk3iWLRgpymp1x\/s1600\/Trafik%20Levhalar%C4%B1%282%29.png",
+  "Explaination": 1,
+  "Answer": "Akü şarj ikaz ışığının ampülünde"
+ },
+ {
+  "Question": "Motoru çalıştırmak için uzun süre ve sıkça marş yapılması aşağıdakilerden hangisinin ömrünü kısaltır?\n",
+  "A": "Fren pedalının\n",
+  "B": "Far ampulünün\n",
+  "C": "Marş motorunun\n",
+  "D": "Silecek motorunun",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Marş motorunun\n"
+ },
+ {
+  "Question": "Motor çalışır durumda iken marş yapılırsa aşağıdakilerden hangisi meydana gelir?\n",
+  "A": "Motor daha iyi yağlama yapar.\n",
+  "B": "Motor daha yavaş döner.\n",
+  "C": "Marş dişlisi zarar görür.\n",
+  "D": "Motor daha hızlı döner.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Marş dişlisi zarar görür.\n"
+ },
+ {
+  "Question": "Marş yapıldığında marş motoru yavaş dönüyorsa sebebi aşağıdakilerden hangisi olabilir?\n",
+  "A": "Far kablo bağlantılarının oksitlenmesi\n",
+  "B": "Akü şarj durumunun yeterli olmaması\n",
+  "C": "Hava filtresinin kirlenmesi\n",
+  "D": "Bujilerin eskimesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Akü şarj durumunun yeterli olmaması\n"
+ },
+ {
+  "Question": "Marşa basılıp motor çalıştığında aşağıdakilerden hangisinin sönmesi gerekir?\n",
+  "A": "Park lambası\n",
+  "B": "Sinyal lambası\n",
+  "C": "Şarj lambası\n",
+  "D": "El fren lambası",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Şarj lambası\n"
+ },
+ {
+  "Question": "Aracın gösterge panelinde bulunan şekildeki ikaz ışığı, aşağıdakilerden hangisidir?\n",
+  "A": "Arka sis lambası ikaz ışığı\n",
+  "B": "Hava yastığı ikaz ışığı\n",
+  "C": "Akü şarj ikaz ışığı\n",
+  "D": "ABS fren sistemi ikaz ışığı",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEh5iJOpnbB5h3AouC0t1Bm-KO8C_tiZf2xcO4VZspOlOGvvDyaJG6783urhxMFvXMx8PbnqQtPHwxQiqG2LfaRXdMrYF8QgB4w45Znwk2JpGcvTWXcnqgdCb7QY-BYT_QF1fOxnfFd2NWBiPLeM7xJaPa0RgJcmRALHvfwUGScyEs6S0GLk3iWLRgpymp1x\/s1600\/Trafik%20Levhalar%C4%B1%282%29.png",
+  "Explaination": 1,
+  "Answer": "Akü şarj ikaz ışığı\n"
+ },
+ {
+  "Question": "Aracın gösterge panelinde, şekilde görülen akü şarj ikaz ışığı yandığı hâlde araç sürülmeye devam edilirse aşağıdakilerden hangisinin olması beklenir?\n",
+  "A": "Yağın azalması\n",
+  "B": "Akünün boşalması\n",
+  "C": "Fren hidroliğinin bitmesi\n",
+  "D": "Marş motorunun arızalanması",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhH0zn01IO3f2GCGqXG-oIUrNfqpQoVINvDqFgP8hhXqzT988SSvn-FG5Oib0-LX668iUSQdc-xTM4dgQWXyjxY-oqs7YMXv3-_xdrEWdIov-vaOZg64PBQRsC_tOQVOb6M8TWhqwAYja3YI5Q1eTO-WG7a8xmqHe2X99mGbWLm-Ask0aX3C-BQdGlqBJB2\/s1600\/Trafik%20Levhalar%C4%B1%283%29-min.png",
+  "Explaination": 1,
+  "Answer": "Akünün boşalması\n"
+ },
+ {
+  "Question": "Motoru çalıştırırken uzun süre ve sıkça marş yapılırsa aşağıdakilerden hangisinin olması beklenir?\n",
+  "A": "Akünün boşalması\n",
+  "B": "Hava filtresinin kirlenmesi\n",
+  "C": "Far ampullerinin patlaması\n",
+  "D": "Motor devir göstergesinin arızalanması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Akünün boşalması\n"
+ },
+ {
+  "Question": "Akünün elektrolit seviyesi azalmış ise ne ilave edilir?\n",
+  "A": "Asit\n",
+  "B": "Alkol\n",
+  "C": "Saf su\n",
+  "D": "Antifriz",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Saf su\n"
+ },
+ {
+  "Question": "I-Akü kontrolü\n\nII-Lastik kontrolü\n\nIII-Antifriz kontrolü\n\nYukarıda verilenlerden hangileri, aracın kış koşullarına hazırlanmasında alınması gereken önlemlerdendir?",
+  "A": "Yalnız I\n",
+  "B": "I ve II\n",
+  "C": "II ve III\n",
+  "D": "I, II ve III\n",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "I, II ve III\n"
+ }
+]

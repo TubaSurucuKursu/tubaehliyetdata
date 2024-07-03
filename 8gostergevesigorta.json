@@ -1,0 +1,222 @@
+[
+ {
+  "Question": "Aracın elektrik devresinde, akım yüksek olduğunda eriyerek güvenliği sağlayan parça aşağıdakilerden hangisidir?\n",
+  "A": "Akü",
+  "B": "Platin",
+  "C": "Sigorta\n",
+  "D": "Alternatör",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Sigorta\n"
+ },
+ {
+  "Question": "Seyir hâlindeyken gösterge panelinde şekildeki ikaz ışığının yanması durumunda aşağıdakilerden hangisi yapılmalıdır?\n",
+  "A": "Araç ışıkları açılıp kapatılmalıdır.\n",
+  "B": "Hız azaltılarak sürüşe devam edilmelidir.\n",
+  "C": "Dörtlü ikaz lambaları yakılarak yola devam edilmelidir.\n",
+  "D": "Araç güvenli bir şekilde durdurulmalı ve aracın kontağı kapatılmalıdır.",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhZ1VGqwz1b6-GAyAAc3BvWa40K2v9MdDZbpSz7_efNMSpFh9jfXItJHHpFnO2LXkkZxgQID4UvS4R6jOXORQ1LdoqTuTSJ6LXUh6YQEV7sVKe0GLt48VDalbywUj43YuWcwzv4oi0zKtu30jsn_YYOP_dP5EHLRmzfzdcNSO5JIZK0IYLwQ9a7MB51_Y9Q\/s1600\/Trafik%20Levhalar%C4%B1%288%29-min.png",
+  "Explaination": 1,
+  "Answer": "Araç güvenli bir şekilde durdurulmalı ve aracın kontağı kapatılmalıdır."
+ },
+ {
+  "Question": "Aracın gösterge panelinde, aşağıdaki ikaz ışıklarından hangisinin yanıyor olması, arka cam rezistansının çalışmakta olduğunu bildirir?\n",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjFqDJxht6aFTpXqHYcgQ6J0aGkWdOIKXWX700RgM21ODbJQp-33G2jlq_umM0LaJCG92hvjtNKa6s-EwHuBm6dSFyrH2OPMk6tBtaHxGcjUXwYfO99F30lMFi7-JJ1XMPymFNEvTh0fDYu7arJWwriP23DUkwrD_WbtuzPBhMvTOPbToKJgvM_uA24lihV\/s1600\/Trafik%20Levhalar%C4%B1%289%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "C)"
+ },
+ {
+  "Question": "Araca bağlanan römorkta aşağıdaki ikaz sistemlerinin hangisi çalışır durumda olmalıdır?\n",
+  "A": "Korna",
+  "B": "Yağ lambası\n",
+  "C": "Şarj lambası\n",
+  "D": "Sinyal lambası",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Sinyal lambası"
+ },
+ {
+  "Question": "Aracın gösterge panelinde şekildeki uyarı lambasının yanıyor olması neyi bildirir?\n",
+  "A": "Araçta elektrikli koltuksisteminin bulunduğunu\n",
+  "B": "Yakıt deposu kapağının doğru kapatılmadığını\n",
+  "C": "Emniyet kemerinin takılı olmadığını\n",
+  "D": "Hava yastığı sisteminde bir arıza olduğunu",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjqXQuqVXkCBkIJ0Eev50rN9FzmXN-NkLn_mvI-WnYGjEE5KsZY1A0PDxnoaSx7AbssJ95I0ddEtHVV2XB8TvFzQEgO5RC4I_2ytUAoccgugSGf13E2APvtF2t5z699JQM7C9zMW3jl6f_vzUHCk3uCFBdZ7N14ie-KECZQhLUk5jtMF83sVDZWRdrNveh8\/s1600\/Trafik%20Levhalar%C4%B1%289%29-min.png",
+  "Explaination": 1,
+  "Answer": "Emniyet kemerinin takılı olmadığını\n"
+ },
+ {
+  "Question": "Aracın farlarından biri sönük yanıyorsa sebebi aşağıdakilerden hangisi olabilir?\n",
+  "A": "Akünün boşalması\n",
+  "B": "Akü kablo bağlantılarının gevşemesi\n",
+  "C": "Marş kablo bağlantılarının gevşemesi\n",
+  "D": "Far kablo bağlantılarının oksitlenmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Far kablo bağlantılarının oksitlenmesi"
+ },
+ {
+  "Question": "Aracın elektrik devresinde, akım yüksek olduğunda eriyerek güvenliği sağlayan parça aşağıdakilerden hangisidir?\n",
+  "A": "Akü",
+  "B": "Platin\n",
+  "C": "Sigorta\n",
+  "D": "Alternatör",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Sigorta\n"
+ },
+ {
+  "Question": "Araca römork bağlandığı zaman aşağıdakilerden hangisinin yapılması zorunludur?\n",
+  "A": "Römorka yük konulması\n",
+  "B": "Römorkun farlarının yakılması\n",
+  "C": "Römorkun üzerine branda çekilmesi\n",
+  "D": "Römorkun elektrik sisteminin prize takılması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Römorkun elektrik sisteminin prize takılması"
+ },
+ {
+  "Question": "Dizel motorlu aracın gösterge panelinde bulunan şekildeki uyarı lambasının yanıyor olması neyi bildirir?\n",
+  "A": "Fren hidrolik seviyesinin çok düştüğünü\n ",
+  "B": "Arka sis lambasının yanmakta olduğunu\n",
+  "C": "Ön ısıtma bujilerinin çalışmakta olduğunu\n",
+  "D": "Egzozdan çevreyi tehdit edecek boyutta gaz yayıldığını",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjfxu_Pw4cbEBNii59Vjbdry-0heRyBK1Vha1oeMJkveCEGiCvhOYBPpbbcollaMCNjf_uG9didLm8ggDEn-_NtKv7GNll-50UqYwSRD0UV3DUHM8BB8F_op1rQCKT1o_ZNX_oQ6iJpKaNt_uwhzAodloEYIBc80Kw5fgGKtC4RJ0QZObNtMGgVkWyeaqkN\/s1600\/Trafik%20Levhalar%C4%B1%2810%29-min.png",
+  "Explaination": 1,
+  "Answer": "Ön ısıtma bujilerinin çalışmakta olduğunu\n"
+ },
+ {
+  "Question": "Aracın elektrik sisteminde bulunan sigortalardan biri yanmış ise yerine takılacak olan yeni sigortanın amper değeri eskisine göre nasıl olmalıdır?\n",
+  "A": "Aynı",
+  "B": "Daha büyük\n",
+  "C": "Daha küçük\n",
+  "D": "Önemli değildir.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Aynı"
+ },
+ {
+  "Question": "Aracın gösterge panelinde bulunan şekildeki ikaz ışığı, aşağıdakilerden hangisidir?\n",
+  "A": "Motor yağ basıncı ikaz ışığı\n",
+  "B": "Egzoz gazları kontrol ikaz ışığı\n",
+  "C": "Fren balataları aşınmış ikaz ışığı\n",
+  "D": "Emniyet kemeri takılı değil ikaz ışığı",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgL04_IORtX84sER_ZR85g4bgygs9QFITiEb4ELYNpctnIRBR-2NmseO5fny7vvB95UHiloxzsv-hoxwr1_7gmT5065QNyRzHbqdwUYRJHYWh-kXGo4-Ucgkf5oFDQ4UKKtAvVTeOGLpmSQ-4_FRzz0lt44D5q4DyuhSPuhdN7Mm1VsUnKfrZdP5tY-3whG\/s1600\/Trafik%20Levhalar%C4%B1%2811%29-min.png",
+  "Explaination": 1,
+  "Answer": "Motor yağ basıncı ikaz ışığı\n"
+ },
+ {
+  "Question": "Aracın gösterge panelinde şekildeki uyarı lambasının yanıyor olması neyi bildirir?\n",
+  "A": "Elektrik devresinde aşırı şarj veya düşük şarj olduğunu\n",
+  "B": "Arka cam rezistansının çalışmakta olduğunu\n",
+  "C": "Soğutma sıvısı sıcaklığının çok yükseldiğini\n",
+  "D": "Motor kaputunun tam kapanmadığını",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEisq5Ew61GJPQlI3BIhOd0F8QqswKEUwNAuRiRzpQbKW1jS5izWJxkzaIDONJkqVD7dGz-kInCitoyPIp2i5fjdtwVtbcYk4zOsgEsVv4qoydpLCdg_mUuReNEn2cjqdM_eAVlJspQDOUyWoGQnwYgLuaUvi351WrbIf5Fe5IPIso0ELc65JfmizECa6JTF\/s1600\/Trafik%20Levhalar%C4%B1%2812%29-min.png",
+  "Explaination": 1,
+  "Answer": "Arka cam rezistansının çalışmakta olduğunu\n"
+ },
+ {
+  "Question": "Aracın gösterge panelinde bulunan şekildeki ikaz ışığının, motor çalışmaya başladığında ya da seyir sırasında yanıyor olması sürücüye neyi bildirir?\n",
+  "A": "Motor kaputunun açık kaldığını\n",
+  "B": "Motor yağı basıncının çok düştüğünü\n",
+  "C": "Motor soğutma suyu sisteminde bir arıza olduğunu\n",
+  "D": "Fren sisteminde hidrolik seviye düşüşü veya bir arıza olduğunu",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgGQiq67g_0gJv0t5M_skqI6D_xauzVOBj9oDtQNcRP3rDfPjmEkR3wkeuapZ7eTWv7Rgv1yFr4XijfxAZKhQlnic4SMtUIRtjUeiQl3Eiu16D1pE7CSP-K1EqOBBVmQlmlw2i66jFP-kv81IU2e1fWmXxuXNUDkTD8Jwxr41IvypgtnGE8u1bYteITwmJ2\/s1600\/Trafik%20Levhalar%C4%B1%2813%29-min.png",
+  "Explaination": 1,
+  "Answer": "Motor yağı basıncının çok düştüğünü\n"
+ },
+ {
+  "Question": "Aracın elektrik sisteminde sigortalardan biri yanmışsa aşağıdakilerden hangisi yapılır?\n",
+  "A": "Aynı amperde yenisi ile değiştirilir.\n",
+  "B": "Daha küçük amperde sigorta ile değiştirilir.\n",
+  "C": "Daha büyük amperde sigorta ile değiştirilir.\n",
+  "D": "Herhangi bir amperde sigorta ile değiştirilir.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Aynı amperde yenisi ile değiştirilir.\n"
+ },
+ {
+  "Question": "Aracın gösterge panelinde, aşağıdaki ikaz ışıklarından hangisinin yanıyor olması, emniyet kemerinin takılı olmadığını bildirir?\n ",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiiGTfaXeyJls1K6zzbBLOAT_upRDBfboafWpRGtJnOsNA9U7kcUXUiaV6oDJBesWZ9I5a-PI66S3SShAWao-VpkDt1YodTMJw_Lj447qvkYQiIePIJc77lES-eH1MBg6Rp8BG5e-NThRTwCtdw9C7r1jjm-N0lR2Y3D0YJPXauW3UFEKfCV268ejCmqgSR\/s1600\/Trafik%20Levhalar%C4%B1%2815%29-min.png",
+  "Explaination": 1,
+  "Answer": "C)"
+ },
+ {
+  "Question": "Seyir hâlindeki aracın gösterge panelinde aşağıdaki ikaz ışıklarından hangisinin yanıyor olması, trafik kurallarına uymak şartıyla derhal durulması gerektiğini belirtir?\n",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiwQE1OFHkp9eRP-IlSiBdXGKxQqbn3mmOfqsO12cJte36sglIlXTwKPLNeW4Ce1wnN-Ik30nnmwiKSLYYWNl5DQdnikCNBG90F7cy4L4P4zp6YcBQWSW8hlBMMsUdQd8tDKWaVoyQ2VIcE55YLJl8AhCts6crhXJMBEWxE0hOxa1OTZ0olFfhkt4AvFdI0\/s1600\/Trafik%20Levhalar%C4%B1%2811%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "A)"
+ },
+ {
+  "Question": "Aşağıdakilerin hangisindeki arıza, farların yanmamasına sebep olur?\n",
+  "A": "Bujilerdeki\n",
+  "B": "Distribütördeki\n",
+  "C": "Far anahtarındaki\n",
+  "D": "Endüksiyon bobinindeki",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Far anahtarındaki\n"
+ },
+ {
+  "Question": "Aracın gösterge panelinde, aşağıdaki ikaz ışıklarından hangisinin yanıyor olması, arka cam rezistansının çalışmakta olduğunu bildirir?\n",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiSc1w6tiDEsPzV0wr5tF5jZVig6i6kI5jE118xPsSgA2egOqpifCNnjr4IYHj7MGM-u5qAbDds-4cHe5jSHWKFfuO2H-TiF_qFS-0e3YaELozftlRKGJ5_91C7epizC5XRm3LbtwM8Hp0zLplusl_t3URaa-yTA3eFAwKp7sOefrL-7XGLnt0QAMY-1Hnl\/s1600\/Trafik%20Levhalar%C4%B1%2816%29-min.png",
+  "Explaination": 1,
+  "Answer": "C)"
+ },
+ {
+  "Question": "\"- Aracın hızı azaltılır.\n\n- En sağ şeride, varsa banket üzerine geçilir.\n\n- Araç motoru durdurulur ve dörtlü ikaz ışıkları yakılır.\n\nYukarıdaki uygulamalar, araç gösterge panelinde hangi uyarı ışığının yanması hâlinde yapılır?",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhDAjYFquphvC8zitkjoLL5UmA4n20uQ4QkXm-JpGz_kz4griIIiYHua1DgPjpRxbZifZLslEqcE0ctHG58spgLhjxkkb3rUUXZKPOuM-wWK5BCP_FJoJ60UOWoKW-ZazspaL6Tt68JbC-xUCIiShwJRgbHFi53MqIBGZSSDR0ZtwVZ8XrWfLGYs2G4mhUE\/s1600\/Trafik%20Levhalar%C4%B1%2817%29-min.png",
+  "Explaination": 1,
+  "Answer": "C)"
+ },
+ {
+  "Question": "Aracın gösterge panelinde, aşağıdaki ikaz ışıklarından hangisinin yanıyor olması park ışıklarının açık olduğunu belirtir?\n",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhzt6j-5issm9MCOjxGJri-ubVS9yY6d7GCyFqYSdXcU-STtTAuvgftccQjcoblOexraDIC8dtQS8fbh908DOhqn0dZbRNL9aBs-7_eTNClZ6HQ9FNOKVeabq9NHZl1TaDcqpECB0rzNXJMzvmizf3x0lFEu-_s_WnD7l6WcM8YRUVN0wHXdbYfUxGJWU-n\/s1600\/Trafik%20Levhalar%C4%B1%2818%29-min.png",
+  "Explaination": 1,
+  "Answer": "D)"
+ },
+ {
+  "Question": "Araçta yanmış bir sigortayı daha yüksek amperli bir sigortayla değiştirmek ya da telle sarmak aşağıdakilerden hangisine neden olabilir?\n",
+  "A": "Bujinin daha iyi ateşlemesine\n",
+  "B": "Farların daha canlı yanmasına\n",
+  "C": "Akünün daha çabuk bitmesine\n",
+  "D": "Elektrik tesisatının yanmasına",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Elektrik tesisatının yanmasına"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi, aracın elektrik devrelerinde meydana gelebilecek kısa devre sonunda sistemi olası yangın tehlikesine karşı korumak için kullanılır?\n",
+  "A": "Flaşör",
+  "B": "Sigorta\n",
+  "C": "Far anahtarı\n",
+  "D": "Sinyal ampulü\n",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Sigorta\n"
+ }
+]
