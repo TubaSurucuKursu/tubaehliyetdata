@@ -1,0 +1,102 @@
+[
+ {
+  "Question": "Manevra yapacak sürücü aşağıdakilerden hangisini yapmalıdır?\n",
+  "A": "Ön, arka ve yanlardaki trafiği kontrol etmeli\n",
+  "B": "İşaret verdiği anda manevraya başlamalı\n",
+  "C": "Manevraya başladıktan sonra işaret vermeli\n",
+  "D": "Manevra bitmeden önce işaret vermeyi sona erdirmeli",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Ön, arka ve yanlardaki trafiği kontrol etmeli\n"
+ },
+ {
+  "Question": "Bir kavşakta sağa dönecek olan sürücünün aşağıdakilerden hangisini yapması yanlıştır?\n",
+  "A": "Hızını azaltması\n",
+  "B": "Dönüş işareti vermesi\n",
+  "C": "Geniş bir kavisle dönmesi\n",
+  "D": "Sağ şeride veya işaretlerle dönüş izni verilen şeride girmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Geniş bir kavisle dönmesi\n"
+ },
+ {
+  "Question": "Şekildeki aracın sürücüsü, dönel kavşaktan geriye dönüş yapmak için hangi şeridi izlemelidir?\n",
+  "A": "İstediği şeridi\n",
+  "B": "1 numaralı şeridi\n",
+  "C": "2 numaralı şeridi\n",
+  "D": "3 numaralı şeridi",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhFvNGV8VvCw3UXjephtDNmuyASPDAjcrBstnBXVNjUzcRaUFwA00VNm7T_bsHuFam4Vg_MjheGCTjYn_wecvjBEDUs6SHKDF1PW-BEeHGkpzCNyS2uqHXdM4Rs3rqwsVn6NPyBh12EgKU5PpOnoqGvY3J6-NH5Be03VyAENbf2QEVQRVyrD8Mf5mUt12rs\/s1600\/Trafik%20Levhalar%C4%B1%284%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "1 numaralı şeridi\n"
+ },
+ {
+  "Question": "Sürüş güvenliğini hangisi olumsuz yönde etkiler?\n",
+  "A": "Viraja girmeden önce hızı artırmak\n",
+  "B": "Aracı kullanırken yola konsantre olmak\n",
+  "C": "Yüksek hızlarda ani manevra yapmaktan kaçınmak\n",
+  "D": "Her hızda, fren için ne kadar duruş mesafesi olduğunu hesaplamayı öğrenmek",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Viraja girmeden önce hızı artırmak\n"
+ },
+ {
+  "Question": "Sürücünün aşağıdakilerden hangisini yapması kural ihlali sayılır?\n",
+  "A": "Üç şeritli ve iki yönlü yollarda sağ şeritten gitmesi\n",
+  "B": "Aracın cinsine ve hızına uygun olan şeridi kullanması\n",
+  "C": "Geçme, dönme gibi mecburi hâller dışında şerit değiştirmesi\n",
+  "D": "Şerit değiştirmeden önce, gireceği şeritte sürülen araçların güvenle geçişlerini beklemesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Geçme, dönme gibi mecburi hâller dışında şerit değiştirmesi\n"
+ },
+ {
+  "Question": "Sola dönüş yapacak olan sürücülerin aşağıdakilerden hangisini yapması yanlıştır?\n",
+  "A": "Dar bir kavisle dönmesi\n",
+  "B": "Döneceği yönü önceden işaretle bildirmesi\n",
+  "C": "Dönüşünü tamamladıktan sonra hızına uygun şeride girmesi\n",
+  "D": "Kurallara uygun olarak karşıya geçen yayalara ilk geçiş hakkını vermesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Dar bir kavisle dönmesi\n"
+ },
+ {
+  "Question": "Trafik uygun olsa bile şekildeki kavşakta, hangi numaralı araçların ok yönündeki hareketi kesinlikle yasaktır?\n",
+  "A": "Yalnız 1\n",
+  "B": "Yalnız 2\n",
+  "C": "Yalnız 3\n",
+  "D": "1, 2 ve 3",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgh6x0LJTOzqEYe1AywlWsDd_dr_sYWQmBdibGHaYdL3EHkZo10QCU2Oek4WOrL4fblVaVF8MVdmL2fhH5n4E83GxFLIY_px9Hn6RzXS25k9V0pLvRRnMZ76fWHSUaMMtJAstHi4GhtU4oJKuhERqvOwzd7ANngrvzO1r-heHj2KyyCEL8mgZdMS_YaRbok\/s1600\/Trafik%20Levhalar%C4%B1%285%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "Yalnız 3\n"
+ },
+ {
+  "Question": "Aksine bir işaret yoksa dönüş yaparak doğrultu değiştirecek olan araç sürücülerinin aşağıdakilerden hangisini yapması zorunludur?\n",
+  "A": "Hızını artırması\n",
+  "B": "Sağa geniş, sola dar kavisle dönmesi\n",
+  "C": "Dönmeye başladıktan sonra işaret vermesi\n",
+  "D": "Dönüş sırasında varsa kurallara uygun olarak karşıya geçen yayalara geçiş hakkını vermesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Dönüş sırasında varsa kurallara uygun olarak karşıya geçen yayalara geçiş hakkını vermesi"
+ },
+ {
+  "Question": "Şekildeki gibi sola dönüş yapacak olan sürücü, aşağıdakilerden hangilerini yapmalıdır?\n\nI.Sola dönüş lambasını yakmalı\n\nII.Hızını azaltmalı\n\nIII.Dar bir kavisle dönmeli\n",
+  "A": "Yalnız I\n",
+  "B": "I ve II\n",
+  "C": "II ve III\n",
+  "D": "I, II ve III",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhNSAUXm6HKw3IFXxqb512cW_C4usbbU6yIkJIJalL6sgbFlDN4ZUKgwLZDpCRG7WsouLvXhqFWWKsbltu-JHDtZ_QQy6yh_xo0TIuFaHRANJk3mRmBYuzQYHdyYZTTuo2aNJip6Zo6TGztvXTnkomwWI9DkQvBZD6VMd4d0ek7J-FF4gJxTVCUSB2RSmgE\/s1600\/Trafik%20Levhalar%C4%B1%286%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "I ve II\n"
+ },
+ {
+  "Question": "Manevra yapacak sürücü aşağıdakilerden hangisini yapmalıdır?\n",
+  "A": "İşaret verdiği anda manevraya başlamalı\n",
+  "B": "Ön, arka ve yanlardaki trafiği kontrol etmeli\n",
+  "C": "Manevraya başladıktan sonra işaret vermeli\n",
+  "D": "Manevra bitmeden önce işaret vermeyi sona erdirmeli\n",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Ön, arka ve yanlardaki trafiği kontrol etmeli\n"
+ }
+]

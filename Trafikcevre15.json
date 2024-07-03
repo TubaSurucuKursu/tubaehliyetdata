@@ -1,0 +1,52 @@
+[
+ {
+  "Question": "Bir arızadan dolayı sürülemeyen veya ışık ve fren donanımları bozulan araçlar, diğer bir araç ile en yakın bakım ve onarım yerine kadar gerekli şartlara uyulmak kaydıyla çekilebilirler.\n\nBuna göre aşağıdakilerden hangisi arızalı araç çekilirken uyulması gereken şartlardan biri değildir?",
+  "A": "Çekilen aracın ağırlığının, çeken aracın taşıma sınırından az olması\n",
+  "B": "Birbirine bağlanan iki araç arasındaki açıklığın 10 metre olması\n",
+  "C": "Çekilen aracın, sürücü yönetiminde olması\n",
+  "D": "Her iki aracın da boş (yüksüz) olması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Birbirine bağlanan iki araç arasındaki açıklığın 10 metre olması\n"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi otoyolda yapılabilecek davranışlardandır?\n",
+  "A": "Geri gitmek\n",
+  "B": "Geriye dönmek\n",
+  "C": "Zorunluluk dışında park etmek\n",
+  "D": "Hızına uygun şeritte gitmek",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Hızına uygun şeritte gitmek"
+ },
+ {
+  "Question": "Otoyollara girerken hangi şeridin kullanılması zorunludur?\n",
+  "A": "Orta şerit\n",
+  "B": "Hızlanma şeridi\n",
+  "C": "Tırmanma şeridi\n",
+  "D": "Yavaşlama şeridi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Hızlanma şeridi\n"
+ },
+ {
+  "Question": "Kaza yapan aracın ön ve arkasına, diğer araç sürücülerini yavaşlatmak ve olası bir kaza tehlikesini önlemek için aşağıdakilerden hangisi yerleştirilmelidir?\n",
+  "A": "Yangın tüpü\n",
+  "B": "Üçgen reflektör\n",
+  "C": "Beyaz renkte taş\n",
+  "D": "Teneke veya bidon gibi malzemeler",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Üçgen reflektör\n"
+ },
+ {
+  "Question": "Şekildeki otoyolda numaralanmış şeritlerden hangisi ayrılma (yavaşlama) şerididir?\n",
+  "A": 1,
+  "B": 2,
+  "C": 3,
+  "D": 4,
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgy61hCoihsqq-dHpTgwFtH36Gj0o6iTjAtGIZ9_ZebfKkk5nn7Csr0-wkVQFXKZBsQsWif_DbClJZPjCEfGvfG-4-eIkCwaUgS1qI_niwuUCLWAmVBQf4HyrZukjGeIAMWe6TOJ7nBR_CenE36PmzqxTxoOagkZWZ5KX47mMYwwslIy7Vt3oGG8WD9oSmL\/s1600\/Trafik%20Levhalar%C4%B1%20%288%29-min.jpg",
+  "Explaination": 1,
+  "Answer": 1
+ }
+]

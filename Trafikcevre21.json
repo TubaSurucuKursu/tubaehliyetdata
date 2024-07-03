@@ -1,0 +1,132 @@
+[
+ {
+  "Question": "Yapım ve bakımından sorumlu olduğu kara yollarında, İçişleri Bakanlığının uygun görüşü alınmak suretiyle, Kara Yolları Trafik Yönetmeliğinde belirlenen hız sınırlarının üstünde veya altında hız sınırları belirlemek ve işaretlemek hangi kurumun görev ve yetkisidir?\n",
+  "A": "Sağlık Bakanlığının\n",
+  "B": "Maliye Bakanlığının\n",
+  "C": "Kara Yolları Genel Müdürlüğünün\n",
+  "D": "Millî Eğitim Bakanlığının",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Kara Yolları Genel Müdürlüğünün\n"
+ },
+ {
+  "Question": "2918 sayılı trafik kanununa göre ilk defa sürücü belgesi alanlar ile herhangi bir sebeple sürücü belgesi iptal edilmiş olup da yeniden sürücü belgesi alanlar, belgenin alındığı tarihten itibaren kaç yıl süreyle aday sürücü olarak kabul edilir?\n",
+  "A": 2,
+  "B": 3,
+  "C": 5,
+  "D": 10,
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": 2
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi Karayolları Genel Müdürlüğünün görevlerinden biri değildir?\n",
+  "A": "Şehir içindeki açık ve kapalı otoparklara izin vermek\n",
+  "B": "Kara yollarındaki hız sınırlarını belirleyip işaretlemek\n",
+  "C": "Kara yollarındaki işaretleme standartlarını tespit ve kontrol etmek\n",
+  "D": "Kara yolu güvenliğini ilgilendiren konulardaki projeleri incelemek ve onaylamak",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Şehir içindeki açık ve kapalı otoparklara izin vermek\n"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi Kara Yolları Genel Müdürlüğünün görev ve yetkilerindendir?\n",
+  "A": "Belediye sınırları içindeki yollarda park düzeni, işaretleme, yaya ve okul geçitlerini belirlemek\n",
+  "B": "Kara yolları üzerinde ilk yardım istasyonları kurmak, bu istasyonlara gerekli personeli, araç ve gereci sağlamak\n",
+  "C": "Trafik kazalarının oluş nedenlerine göre verileri hazırlamak ve kara yollarında gerekli önleyici teknik tedbirleri almak veya aldırmak\n",
+  "D": "Motorlu araç sürücülerinin yetiştirilmesi için sürücü kursları açmak, özel sürücü kursu açılmasına izin vermek ve bunları her safhada denetlemek",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Trafik kazalarının oluş nedenlerine göre verileri hazırlamak ve kara yollarında gerekli önleyici teknik tedbirleri almak veya aldırmak\n"
+ },
+ {
+  "Question": "\"- Tescile bağlı araçların muayenelerini yapmak veya yaptırmak\n\n- Trafik zabıtasının görev ve yetkileri saklı kalmak üzere, araçların ağırlık ve boyut kontrollerini yapmak veya yaptırmak ve denetlemek\n\nYukarıdaki görev ve yetkiler, verilen kurumlardan hangisine aittir?\n",
+  "A": "İçişleri Bakanlığına\n",
+  "B": "Emniyet Genel Müdürlüğüne\n",
+  "C": "Karayolları Genel Müdürlüğüne\n",
+  "D": "Ulaştırma, Denizcilik ve Haberleşme Bakanlığına",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Ulaştırma, Denizcilik ve Haberleşme Bakanlığına"
+ },
+ {
+  "Question": "Yerleşim yerleri içinde trafiği düzenleme amacı ile\n\n- Yer işaretlemelerini\n\n- Trafik işaret levhalarını\n\n- Işıklı ve sesli trafik işaretlerini\n\ntemin ve tesis etmek, bunların devamlılığını ve işlerliğini sağlamak, aşağıdaki kuruluşlardan hangisinin görevidir?",
+  "A": "Belediyelerin\n",
+  "B": "Emniyet Genel Müdürlüğünün\n",
+  "C": "Kara Yolları Genel Müdürlüğünün\n",
+  "D": "Ulaştırma, Denizcilik ve Haberleşme Bakanlığının",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Belediyelerin\n"
+ },
+ {
+  "Question": "Millî Eğitim Bakanlığının teorik ve uygulamalı sınavlarda başarı gösteren sürücü adaylarına verdiği belge aşağıdakilerden hangisidir?\n",
+  "A": "Sürücü belgesi\n",
+  "B": "Araç tescil belgesi\n",
+  "C": "Motorlu araç trafik belgesi\n",
+  "D": "Motorlu taşıt sürücü sertifikası",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Motorlu taşıt sürücü sertifikası"
+ },
+ {
+  "Question": "I.Çocuk trafik eğitim parklarının yapılma, açılma, eğitim, denetim ve çalışma esaslarını belirlemek\n\nII.Sürücü adaylarının teorik ve uygulamalı sınavlarını yapmak ve başarılı olanlara sertifika verilmesini sağlamak\n\nIII.Kara yollarında can ve mal güvenliği yönünden gerekli düzenleme ve işaretlemeleri yaparak tedbirleri almak ve aldırmak\n\nVerilenlerden hangileri Milli Eğitim Bakanlığının trafikle ilgili görevlerindendir?",
+  "A": "I ve II.\n",
+  "B": "I ve III.\n",
+  "C": "II ve III.\n",
+  "D": "I, II ve III.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "I ve II.\n"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi, Karayolları Genel Müdürlüğünün görev ve yetkilerinden birisi değildir?\n",
+  "A": "Kara yollarında, gerekli önleyici teknik tedbirleri almak veya aldırmak\n",
+  "B": "Kara yolu güvenliğini ilgilendiren konulardaki projeleri incelemek ve onaylamak\n",
+  "C": "Tüm kara yollarındaki işaretleme standartlarını tespit etmek, yayınlamak ve kontrol etmek\n",
+  "D": "Sürücü adaylarının teorik ve uygulamalı sınavlarını yapmak ve başarılı olanlara sertifika verilmesini sağlamak",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Sürücü adaylarının teorik ve uygulamalı sınavlarını yapmak ve başarılı olanlara sertifika verilmesini sağlamak"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi Emniyet Genel Müdürlüğünün görevlerinden biri değildir?\n",
+  "A": "Araçların muayenesini yapmak\n",
+  "B": "Duran ve akan trafiği düzenlemek ve yönetmek\n",
+  "C": "Karayollarını kullananların kurallara uyup uymadığını denetlemek\n",
+  "D": "El koyduğu trafik kazalarında trafik kaza tespit tutanağı düzenlemek",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Araçların muayenesini yapmak\n"
+ },
+ {
+  "Question": "Aşağıdakilerin hangisi Emniyet Genel Müdürlüğünün görevlerindendir?\n",
+  "A": "Araçların muayenelerini yapmak\n",
+  "B": "Duran ve akan trafiği düzenlemek \n",
+  "C": "Muayene istasyonlarını denetlemek\n",
+  "D": "Park yerleri ve benzeri tesisleri yapmak",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Duran ve akan trafiği düzenlemek \n"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi Kara Yolları Genel Müdürlüğünün görev ve yetkilerindendir?\n",
+  "A": "Çocuk trafik eğitim parklarını yapmak\n",
+  "B": "Duran ve akan trafiği düzenlemek ve yönetmek\n",
+  "C": "Sürücü adaylarının teorik ve uygulamalı sınavlarını yapmak ve başarılı olanlara sertifika verilmesini sağlamak\n",
+  "D": "Tüm kara yollarındaki işaretleme standartlarını tespit etmek, yayınlamak ve kontrol etmek",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Tüm kara yollarındaki işaretleme standartlarını tespit etmek, yayınlamak ve kontrol etmek"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi tüm kara yollarındaki işaretleme standartlarının tespiti, yayınlanması ve kontrolü ile görevlidir?\n",
+  "A": "Sağlık Bakanlığı\n",
+  "B": "Millî Eğitim Bakanlığı\n",
+  "C": "Emniyet Genel Müdürlüğü\n",
+  "D": "Karayolları Genel Müdürlüğü\n",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Karayolları Genel Müdürlüğü\n"
+ }
+]

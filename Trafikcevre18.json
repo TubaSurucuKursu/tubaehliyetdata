@@ -1,0 +1,172 @@
+[
+ {
+  "Question": "Kara Yolları Trafik Kanununa göre “M, A1, A2, A, B1, B, BE, F ve G” sınıfı sürücü belgeleri kaç yıl süreyle geçerlidir?\n",
+  "A": 10,
+  "B": 15,
+  "C": 20,
+  "D": 25,
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": 10
+ },
+ {
+  "Question": "Kara Yolları Trafik Kanunu’na göre “C1, C1E, C, CE, D1, D1E, D ve DE” sınıfı sürücü belgeleri kaç yıl süreyle geçerlidir?\n",
+  "A": 2,
+  "B": 5,
+  "C": 7,
+  "D": 10,
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": 5
+ },
+ {
+  "Question": "Aracına “LPG” sistemi taktıran bir kişi, bu durumu kaç gün içinde ilgili kuruluşa bildirmek zorundadır?\n",
+  "A": 30,
+  "B": 40,
+  "C": 50,
+  "D": 60,
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": 30
+ },
+ {
+  "Question": "Kara Yolları Trafik Yönetmeliği’ne göre aşağıdaki durumlardan hangisinin oluşması hâlinde, araç için yeni Tescil Belgesi düzenlenmesi zorunludur?\n",
+  "A": "Hurdaya ayrılması\n",
+  "B": "Teknik değişiklik yaptırılması\n",
+  "C": "Aracın yaralanmalı kazaya karışması\n",
+  "D": "Aracın teknik muayenesinin zamanında yaptırılmaması",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Teknik değişiklik yaptırılması\n"
+ },
+ {
+  "Question": "Araçların muayene süresi dolmasa bile, aşağıdaki hâllerin hangisinden dolayı özel muayenesi zorunludur?\n",
+  "A": "Kazaya karışması sonucu yetkili görevli tarafından gerekli görüldüğünde\n",
+  "B": "Sürücüsü veya işleticisi değiştiğinde\n",
+  "C": "Motoru bakımdan geçirildiğinde\n",
+  "D": "Sahibi değiştiğinde",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Kazaya karışması sonucu yetkili görevli tarafından gerekli görüldüğünde\n"
+ },
+ {
+  "Question": "Motosikletlerde ilk 3 yaş sonunda kaç yılda bir muayene yaptırılması zorunludur?\n",
+  "A": 4,
+  "B": 3,
+  "C": 2,
+  "D": 1,
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": 2
+ },
+ {
+  "Question": "Haritalarda gösterilen şekildeki işaret, aşağıdakilerden hangisine verilen yol numarasıdır?\n",
+  "A": "Uluslararası yol\n",
+  "B": "Devlet yolu\n",
+  "C": "Demir yolu\n",
+  "D": "Otoyol",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgL9AbKaFU4AKjYjWgDPwuSAjgML9Fb5YQtfZtnwYX_C_QU49FBWEGMKOubPus5GvZrl_-qqVqYn1x-aJX4arWBTa9oLBbsKbRZY5r-7TNwm-rPLx243oWlnXAQc0tIFmvWjzOButnj1zTIY88lWMmEKKlPjaiijqzkvbc2oqNOf6_j2Esn4sOi2kvjwqZQ\/s1600\/Trafik%20Levhalar%C4%B1%20%284%29-min.png",
+  "Explaination": 1,
+  "Answer": "Uluslararası yol\n"
+ },
+ {
+  "Question": "I.Sürülen taşıtın cinsine uygun olması\n\nII.Yetkililerin istemesi hâlinde gösterilmesi\n\nIII.Taşıt sürerken sürücünün yanında bulundurması\n\nMotorlu taşıt sürücü belgesiyle ilgili olarak yukarıda verilenlerden hangileri zorunludur?",
+  "A": "Yalnız I\n",
+  "B": "I ve II\n",
+  "C": "II ve III\n",
+  "D": "I, II ve III",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "I, II ve III"
+ },
+ {
+  "Question": "Haritalarda gösterilen şekildeki işaret, aşağıdakilerden hangisine verilen yol numarasıdır?\n",
+  "A": "Otoyol\n",
+  "B": "Demir yolu\n",
+  "C": "Devlet yolu\n",
+  "D": "Uluslararası yol",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhxt-njCKrKa0vfBiR1CZaOq9Q8QVlh_cEheheK53Xk7GGxt2XUTFMqvBkbNjXdeuUA926UlBSXPRNYdSSvIitJ14sQ1_kyzPqUk65LY3fUKiBcXigJs8aKFj6hDXyuPqmUmLuthUyYLUvMHqxASQOipzA8V2Nq7dTS9nINP7qsU4gYVx4MFL-qL4i2gDee\/s1600\/Trafik%20Levhalar%C4%B1%20%285%29.png",
+  "Explaination": 1,
+  "Answer": "Devlet yolu\n"
+ },
+ {
+  "Question": "Monoküler (tek gözü gören) kişilerle ilgili olarak aşağıdakilerden hangisi yanlıştır?\n",
+  "A": "Bu kişiler ticari araç kullanabilir.\n",
+  "B": "Sürücü belgesi aldıktan sonra her yıl bir göz hekiminden sağlık raporu almaları zorunludur.\n",
+  "C": "Kullanacakları araçların içinde, sağında ve solunda olmak üzere en az 3 ayna bulunması zorunludur.\n",
+  "D": "Kendileri açısından konulan kurallara uyup uymadıklarının denetlenebilmesi için sürücü belgelerine monoküler ibaresi yazılır.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Bu kişiler ticari araç kullanabilir.\n"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi, tescil işlemleri tamamlanmış araçların trafiğe çıkarılmasına müsaade eden ve muayene sürelerini belirleyen bir belgedir?\n",
+  "A": "Sürücü belgesi\n",
+  "B": "Araç imalat belgesi\n",
+  "C": "Mali sorumluluk sigortası\n",
+  "D": "Motorlu araç tescil belgesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Motorlu araç tescil belgesi"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi araç sahiplik belgesidir?\n",
+  "A": "Sürücü belgesi\n",
+  "B": "Araç tescil belgesi\n",
+  "C": "Araç imalat belgesi\n",
+  "D": "Servis bakım belgesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Araç tescil belgesi\n"
+ },
+ {
+  "Question": "Motorlu araçların, - - - - sahibi olmayan kişiler tarafından kara yollarında sürülmesi ve sürülmesine izin verilmesi yasaktır.\n\nVerilen ifadede boş bırakılan yere aşağıdakilerden hangisi yazılmalıdır?",
+  "A": "Katılım Belgesi\n",
+  "B": "Eğitim Sertifikası\n",
+  "C": "Sürücü Belgesi\n",
+  "D": "Sürücü Sertifikası",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Sürücü Belgesi\n"
+ },
+ {
+  "Question": "Araçların muayene süresi dolmasa bile, aşağıdaki hâllerin hangisinden dolayı özel muayenesi zorunludur?\n",
+  "A": "Kazaya karışması sonucu yetkili görevli tarafından gerekli görüldüğünde\n",
+  "B": "Sürücüsü veya işleticisi değiştiğinde\n",
+  "C": "Motoru bakımdan geçirildiğinde\n",
+  "D": "Sahibi değiştiğinde",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Kazaya karışması sonucu yetkili görevli tarafından gerekli görüldüğünde\n"
+ },
+ {
+  "Question": "Üzerinde renk ve teknik değişiklik yapılanveya kullanım amacı değiştirilen araçlara ait tescil belgeleri, sahiplerinin gerekli uygunluğu sağlamaları bakımından kaç gün süre ile geçerliliğini korur?\n",
+  "A": 30,
+  "B": 40,
+  "C": 50,
+  "D": 60,
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": 30
+ },
+ {
+  "Question": "B sınıfı sürücü belgesine sahip olan Mehmet, A2 sınıfı sürücü belgesi almak için başvuru yapıyor.\n\nBu durumda Mehmet, aşağıda resimleri verilen araçlardan hangisini kullanmak istemektedir?",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEi6LUtSLrMcegFmhO5FqkexP8NMaTvBi8CEZvz6iyxJz-DRXbS0yrBWD6vhklgselSegA_vysy1zbtEAv_YirAmHdyFTXK0fz1tyDP-OQivz2FKpnJGXRW1y1Yg83054lYac14LYdwqP9soL-Qcmgc4bR2hHSTPiemdBfhKb-19GEM1uga0hkTMrZxwkWXT\/s1600\/Trafik%20Levhalar%C4%B1%20%2812%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "B)"
+ },
+ {
+  "Question": "Araçların muayene süresi dolmasa bile, aşağıdaki hâllerin hangisinden dolayı özel muayenesi zorunludur?\n",
+  "A": "Üzerinde teknik değişiklik yapıldığında\n",
+  "B": "Sürücüsü veya işleticisi değiştiğinde\n",
+  "C": "Motoru bakımdan geçirildiğinde\n",
+  "D": "Sahibi değiştiğinde \n",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Üzerinde teknik değişiklik yapıldığında\n"
+ }
+]

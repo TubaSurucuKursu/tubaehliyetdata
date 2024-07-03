@@ -1,0 +1,62 @@
+[
+ {
+  "Question": "I.Motosiklet\n\nII.Elektrikli bisiklet\n\nIII.Lastik tekerlekli traktör\n\nIV.Üç tekerlekli yük motosikleti\n\nYukarıdaki taşıtlardan hangilerinin sürülmesi sırasında koruma başlığı takılması mecburidir?",
+  "A": "I ve II.\n",
+  "B": "I, III ve IV.\n",
+  "C": "II, III ve IV.\n",
+  "D": "I, II, III ve IV.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "I ve II.\n"
+ },
+ {
+  "Question": "Motorlu bisiklet, motosiklet ve sürücüleri ile ilgili olarak aşağıdakilerden hangisinin yapılması yasaktır?\n",
+  "A": "Gidiş yönüne göre yolun en sağından seyredilmesi\n",
+  "B": "İkiden fazlasının taşıt yolunun bir şeridinde yan yana sürülmesi\n",
+  "C": "Tehlikeli madde taşıyan araçların geçilmesi\n",
+  "D": "Geçme yaparken sinyal verilmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "İkiden fazlasının taşıt yolunun bir şeridinde yan yana sürülmesi\n"
+ },
+ {
+  "Question": "Motosikletin sürülmesi sırasında aşağıdakilerden hangisinin kullanılması, olası bir kaza anında kafa yaralanmalarının sayısını ve şiddetini önemli ölçüde azaltır?\n",
+  "A": "Kask\n",
+  "B": "Eldiven\n",
+  "C": "Yansıtıcı giysi\n",
+  "D": "Dayanıklı bot",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Kask\n"
+ },
+ {
+  "Question": "Motorlu bisiklet, motosiklet ve sürücüleriyle ilgili olarak aşağıdakilerden hangisinin yapılması yasaktır?\n",
+  "A": "Sürücü arkasında yeterli oturma yeri olsa bile bir kişiden fazlasının taşınması\n",
+  "B": "Gidiş yönüne göre yolun en sağından seyredilmesi\n",
+  "C": "Tehlikeli madde taşıyan araçların geçilmesi\n",
+  "D": "Geçme yaparken sinyal verilmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Sürücü arkasında yeterli oturma yeri olsa bile bir kişiden fazlasının taşınması\n"
+ },
+ {
+  "Question": "Motorlu bisiklet, motosiklet ve sürücüleri ile ilgili olarak aşağıdakilerden hangisinin yapılması yasaktır?\n",
+  "A": "Geçme yaparken sinyal verilmesi\n",
+  "B": "Tehlikeli madde taşıyan araçların geçilmesi\n",
+  "C": "Sürülmeleri sırasında elde bagaj, paket ve benzerlerinin taşınması\n",
+  "D": "Gidiş yönüne göre yolun en sağından seyredilmesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Sürülmeleri sırasında elde bagaj, paket ve benzerlerinin taşınması\n"
+ },
+ {
+  "Question": "Motorlu bisiklet, motosiklet ve elektrikli bisikletlerin sürülmesi sırasında sürücülerin aşağıdakilerden hangisini kullanması zorunludur?\n",
+  "A": "Koruma başlığı ve koruma gözlüğü\n",
+  "B": "Rüzgârlık ve boyun korsesi\n",
+  "C": "Eldiven ve emniyet kemeri\n",
+  "D": "Çocuk bağlama sistemi\n",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Koruma başlığı ve koruma gözlüğü\n"
+ }
+]

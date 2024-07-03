@@ -1,0 +1,192 @@
+[
+ {
+  "Question": "Şekildeki akaryakıt istasyonundan çıkmak isteyen 2 numaralı aracın sürücüsü ne yapmalıdır?\n",
+  "A": "Korna çalıp 1 numaralı aracı durdurmalı\n",
+  "B": "1 numaralı aracın geçmesini beklemeli\n",
+  "C": "Hızlanarak yoluna devam etmeli\n",
+  "D": "Geçiş hakkını kendisi kullanmalı",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhFTAiDcLIjXxBJcGPKY6sRn_N_gVqwo0a3Ohrsa4x5N_SlRQFOQKTjpAy9qYUWA7qWnwnvSMzyN9kYGsHiqxZgNszfyTM-2Fot7vC2WmLGrkZSfFFb364WdyZI2e-HsD6iGDAhgVN93hZRaT4fDcr-Of-_EJuIAUzm8RQJ9r5C6iYcJJwoFbCs2vvCCPJW\/s1600\/Trafik%20Levhalar%C4%B1%20%284%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "1 numaralı aracın geçmesini beklemeli\n"
+ },
+ {
+  "Question": "Şekildeki gibi bir kavşakta karşılaşan araçların geçiş önceliği sıralaması nasıl olmalıdır?\n",
+  "A": "1 - 2 - 3\n",
+  "B": "2 - 3 - 1\n",
+  "C": "3 - 2 - 1\n",
+  "D": "3 -- 1 -- 2",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjSD6L-gyKHsorkw0nGR0cznyBB7ZKOdlaBc1ypM3xi3ntawRYJh4LT9TtciUZKEIDxYDSyQ74srgAQo1tXfHfLF43ghPtF3ncM5j6CA2kYBPAB7XdH-Adyh8g-taiby5V431INB4oi2hX1V216-FWqgJqCJF5NwEGKCb61pisHOeM3l4APNb-X3c9mdf44\/s1600\/Trafik%20Levhalar%C4%B1%20%286%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "2 - 3 - 1\n"
+ },
+ {
+  "Question": "Şekildeki gibi kontrolsüz kavşakta karşılaşan araçların geçiş hakkı sıralaması nasıl olmalıdır?\n",
+  "A": "1 -- 2 -- 3\n",
+  "B": "2 -- 1 -- 3\n",
+  "C": "3 -- 1 -- 2\n",
+  "D": "3--2--1",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgfXCu7eQvfgMX1x2vLZ8GpC53nZGugho45UHAIdzyIaWrlK7jAVbRR_UdJwWQH3psCcN38jtQ5DKxwr9WdHmXAAaB-sbdkBIbhCgvTbuDeEMAn_DVq9vH9TlOS8uVgjf7oVBu8NHwqPDRB1n0JvAz_S3zmC6F9tSeyGhQmsbCZwDoDz939nTtUof7HZHs6\/s1600\/Trafik%20Levhalar%C4%B1%20%287%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "3--2--1"
+ },
+ {
+  "Question": "Kavşağa yaklaşan bir sürücü, trafik işaret ışığının aralıklarla kırmızı yanıp söndüğünü fark etmiştir.\n\nBu durumda sürücü nasıl davranmalıdır?",
+  "A": "Durmalı, ilk geçiş hakkını kendisi kullanmalı",
+  "B": "Hızını sabit tutmalı, kontrollü bir şekilde geçmeli",
+  "C": "Hızını azaltmalı, kontrollü bir şekilde durmadan geçmeli",
+  "D": "Durmalı, ilk geçiş hakkını diğer yönden gelen araçlara vermeli",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Durmalı, ilk geçiş hakkını diğer yönden gelen araçlara vermeli"
+ },
+ {
+  "Question": "Şekildeki gibi bir kavşakta karşılaşan araçların geçiş hakkı sıralaması nasıl olmalıdır?\n",
+  "A": "1 - 2 - 3 - 4\n",
+  "B": "1 - 2 - 4 - 3\n",
+  "C": "2 - 1 - 4 - 3\n",
+  "D": "4 - 1 - 2 - 3",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEirtKoqgiU0e9cKte_my3ZhlQNGyFePNg7s4W2qYZcxYG3PAmg838rzK10KqqGqlruBfXYJP9dSmFh6_SmMKP-RPiqJKAzVt3IhyAw6l0SZqfCBitCKhpWsWwJNmoVzsRxxNWKpdg85gzQ2Nq3qtAU6Cgd76H-U871OwtP4nD5frRGPeiiqZexg9f8P4-Sq\/s1600\/Trafik%20Levhalar%C4%B1%20%288%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "1 - 2 - 3 - 4\n"
+ },
+ {
+  "Question": "Trafik zabıtası veya trafik işaret levhası ve ışıklı işaret cihazı bulunmayan kontrolsüz kavşaklarda, aşağıdakilerden hangisinin yapılması yanlıştır?\n",
+  "A": "Tali yoldan ana yola çıkan sürücülerin, ana yoldan geçen araçlara yol vermesi\n",
+  "B": "Dönüş yapan sürücülerin, doğru geçmekte olan araçlara yol vermesi\n",
+  "C": "Bütün sürücülerin geçiş üstünlüğüne sahip araçlara yol vermesi\n",
+  "D": "Motorlu araçlardan sağdakinin, soldan gelen araca yol vermesi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Motorlu araçlardan sağdakinin, soldan gelen araca yol vermesi"
+ },
+ {
+  "Question": "Şekildeki gibi sola dönüş yapacak olan 2 numaralı araç sürücüsü aşağıdakilerden hangilerini yapmalıdır?\n\nI.Dar bir kavisle dönmeli\n\nII.Yayanın geçmesini beklemeli\n\nIII.Sola dönüş lambasını yakmalı\n\nIV.İlk geçiş hakkını 1 numaralı araca vermeli",
+  "A": "I ve IV.\n",
+  "B": "II ve III.\n",
+  "C": "I, II ve III.\n",
+  "D": "II, III ve IV.",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhe6kmWPQEc4TbqjnorcjFYU6tYStsoZXt6fZCdWvLbIkqM87jOnbhIqxJaCBRPDPK5xeMtuPOeh_cRMiXO3ajXQ5wTlUgEislV0bSY2VkZNxDx_QIFbGtoHMb_0_mJZr-GzL01wZhQjE8HO6lJkD_ruK9EdCcrejhyphenhyphend048cqocMq8VmbA3vGNfKyHjCLmF\/s1600\/Trafik%20Levhalar%C4%B1%20%289%29.jpg",
+  "Explaination": 1,
+  "Answer": "II, III ve IV."
+ },
+ {
+  "Question": "Şekildeki kavşakta ilk geçiş hakkı sıralaması nasıl olmalıdır?\n",
+  "A": "1 -- 2 -- 3\n",
+  "B": "1 -- 3 -- 2\n",
+  "C": "2 -- 3 -- 1\n",
+  "D": "3 -- 1 -- 2",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjDINcUS0pFSXrJwo3OFMkzO9oOvSfYYjKvmAerAmi9KusIfqB3Sm8zv0sq9J-C9mvnisJ_XcnUC_zJ0z6XQXM-23qa_lf2-xCZcLVVcXgBlUTuqcK9F0z6KFUEj-6jJaNUfkUUXTUY9-QVNzI7bGlYs5V90ZmCsSBQERsH7blhA1k9IFofWCw-PyLwJHAu\/s1600\/Trafik%20Levhalar%C4%B1%20%2810%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "2 -- 3 -- 1\n"
+ },
+ {
+  "Question": "Şekildeki kavşakta karşılaşan araçların geçiş hakkı sıralaması nasıl olmalıdır?\n",
+  "A": "1 -- 2 -- 3\n",
+  "B": "1 -- 3 -- 2\n",
+  "C": "2 -- 3 -- 1\n",
+  "D": "3 -- 2 -- 1",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjQbmIuyVGPmg-MJb081bqUQ6sFb1PaEnTvcoFzqdX265mUf0P0Db5iSGAERmkRUmYxsPxp19Aao-Jxvpgzyjt7O3t5Dyz4jVuAOi4J9vnYqY_uZFdEY7ktZKRpAIhpMOX1x1x14lFLUEIem6GNm2jw1GsR2Mzh-6KJz7_0GGnCcXllyWZF3Oqq1hV7wub8\/s1600\/Trafik%20Levhalar%C4%B1%20%2812%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "1 -- 3 -- 2\n"
+ },
+ {
+  "Question": "Şekildeki kontrolsüz kavşakta ilk geçiş hakkını hangi numaralı araç kullanmalıdır?\n",
+  "A": 1,
+  "B": 2,
+  "C": 3,
+  "D": 4,
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiFXVOkhIPjHFfhk4mj1YIlLpoyY9REFEmvepEGBh17UrfM0-JCMDyELLyfStC0klO14WyRC4Fb_j1vKWE-a9WH9l2o0aHJxjflbgKl3MR93i4DTJDND9azK-S1aTSRrDDgQd6OYkx996FgT9e3oPohEvfKXER04nM2lzVqsLqFMtJI8VsC0vgZEN6T2QVV\/s1600\/Trafik%20Levhalar%C4%B1%20%2813%29-min.jpg",
+  "Explaination": 1,
+  "Answer": 1
+ },
+ {
+  "Question": "Şekle göre 2 numaralı aracın sürücüsü ne yapmalıdır?\n",
+  "A": "1 numaralı araca yol vermeli\n",
+  "B": "Geçiş hakkını kendisi kullanmalı\n",
+  "C": "Hızını artırarak kavşağa önce girmeli\n",
+  "D": "Korna çalıp 1 numaralı aracı durdurmalı",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEhni2oZfK2yxa-i5eRcWszq5aLX2Pi7Bbv8erFAfvWVPdm1ZgOXQ3ayZRsWVpp4ZnfPPID06zUhj5Sxei-jq0sS8mmCdbLsILiCSwZmjeXb3HKbyQqV-9h3gvhMA1fxyYv4_MYkfEA0fC-n4AgWYhvCNlO4Ua3zbiVaQ3OLlR_GU5R_RoItR9r7XYU5TH4n\/s1600\/Trafik%20Levhalar%C4%B1%20%2814%29.jpg",
+  "Explaination": 1,
+  "Answer": "1 numaralı araca yol vermeli\n"
+ },
+ {
+  "Question": "Şekilde görülen geçiş üstünlüğüne sahip araçların, görev hâlinde karşılaşmaları durumunda ilk geçiş hakkını hangisi kullanmalıdır?\n",
+  "A": "İş makinesi\n",
+  "B": "Polis aracı\n",
+  "C": "Ambulans\n",
+  "D": "İtfaiye aracı",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgcH5XN2GjZNt7LlEerHLxLgL6S6JiQPhgcWsgnkBSUmTvxCTGk8mlavapUHzOGgTiMP3HKzn8YzyYehgwJXzsMibZddesFfja9o7-FhodSZsxBzuJL3zwTv9gs_oLq8Mll7rDrIGxTAQzJA3k1K1xkVmJKUevILri2t9ITORwO5NS9yGtIdvCY3vdOlX50\/s1600\/Trafik%20Levhalar%C4%B1%20%2815%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "Ambulans\n"
+ },
+ {
+  "Question": "Şekildeki trafik kazası, aşağıdakilerden hangisine uyulmaması sonucu meydana gelmiş olabilir?\n",
+  "A": "Takip mesafesine\n",
+  "B": "Kavşaklarda geçiş hakkına\n",
+  "C": "Öndeki aracı geçme kuralına\n",
+  "D": "Farların kullanılacağı yer ve hâllere",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjW_uInhi_y75dHIl8w8FGMdTrkVYnK947HjABOOWJYZzh2IO7v_k_IRCPrqfMcML6z9k54PGTiaVFGoC2cVa2vFERjZRoD2Fsp0J85gP9suUPTEdMXiUWTE-4mBA3zsDts-xqESgt9xyd_M4NYGMu7uZa4mFzu5YZnNNy5ItS9FcplkRh1fzFWTvsc1LP6\/s1600\/Trafik%20Levhalar%C4%B1%20%2816%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "Kavşaklarda geçiş hakkına\n"
+ },
+ {
+  "Question": "Şekle göre 2 numaralı aracın sürücüsü ne yapmalıdır?\n",
+  "A": "Hızını artırmalı\n",
+  "B": "U dönüşü yapmalı\n",
+  "C": "1 numaralı araca yol vermeli\n",
+  "D": "1 numaralı aracı ikaz ederek durdurmalı",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjwTXmmOLLZjGh6Jpw5_DJHz6DekkZiOca7CT4O5vb5B9yfB254PjH5IeDoAZF9VykNl3QveaYGr53q-0XPTvO5Vb4TVFgqB7hKuW4DjW94eKfmD0lDHkNzhzND_gqKiCgubH-nQ1qFd3-nRIdI0zR5h3OxXr6jubd7foaHh-KLG21HjJKP01qGIZ2kARKN\/s1600\/Trafik%20Levhalar%C4%B1%20%2817%29.jpg",
+  "Explaination": 1,
+  "Answer": "1 numaralı araca yol vermeli\n"
+ },
+ {
+  "Question": "Şekildeki kavşakta 1 numaralı araç sağa, 2 numaralı araç ise sola dönüş yapmak istemektedir.\n\nBu araçlarla ilgili olarak aşağıdakilerden hangileri doğrudur?\n\nI.Her iki araçta dar kavisle dönmelidir.\n\nII.1 numaralı araç geniş, 2 numaralı araç dar kavisle dönmelidir.\n\nIII.1 numaralı araç dar, 2 numaralı araç geniş kavisle dönmelidir.",
+  "A": "Yalnız I\n",
+  "B": "Yalnız II\n",
+  "C": "Yalnız III\n",
+  "D": "I, II ve III",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgkaf5Mxcllcic9xqzV3n92g4FTLx6Zo6tIVR6nGAXNF2VKV2T8FU2h8V908aTFNRbUV9EXclccE4wP5MJJX-ur5LEZmpqQ052laaAZuFefg9yCJfdkeByi8A41B6FcHzCRKgEroaEmTGBIKsSpMHUQecZmovMdUhBEVVssB51KiEXGL1YYL79WG7ulzgeL\/s1600\/Trafik%20Levhalar%C4%B1%20%2818%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "Yalnız III\n"
+ },
+ {
+  "Question": "Şekildeki kontrolsüz kavşakta ilk geçiş hakkını hangi araç kullanmalıdır?\n",
+  "A": "Otomobil\n",
+  "B": "Kamyonet\n",
+  "C": "Motosiklet\n",
+  "D": "At arabası",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEjd0YuqZJEkztxqCLgM0deTkGRgtn0Ipjj5K17l2tVhwWzeTMtXiNsZp_fTknv4d-tp112MkGnDRsq-Tqm0rzrgtVWe72CcPepiVXnI7nP4JRDIN4Yt5UTO3yfzsiy3NyyY3e2IWf26JF2ruHYYxL9Y10Cm3qnp2z9asO2AftC9AFJVWPlUDorNOrZ1GlPY\/s1600\/Trafik%20Levhalar%C4%B1%20%2819%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "Otomobil\n"
+ },
+ {
+  "Question": "Şekildeki kontrolsüz kavşakta 1 numaralı aracın sürücüsü ne yapmalıdır?\n",
+  "A": "Hızlanıp kavşağa girmeli\n",
+  "B": "Geçiş hakkını kendi kullanmalı\n",
+  "C": ".2 numaralı aracın geçmesini beklemeli\n",
+  "D": "İkazda bulunup 2 numaralı aracı durdurmalı",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgY6nPVJZIFKDf8mc7SjOR-Y7kuAAc9ElGbkOVMtP647kN9QkkqwVDzUQH6aBBsilvx1EhdGtRbq5Xm_IVsnGIqiz2vu0p_iABkOCw5nx68FYIlmKF4C9JMgJqPrjfUHlptYRj3BeuPBBjXHbAV0rj6AXmq9bqy3zuO28p69j6hfUXz3pSpcYmSPrpuyqXf\/s1600\/Trafik%20Levhalar%C4%B1%20%2820%29-min.jpg",
+  "Explaination": 1,
+  "Answer": ".2 numaralı aracın geçmesini beklemeli\n"
+ },
+ {
+  "Question": "Şekle göre aşağıdakilerden hangisi doğrudur?\n",
+  "A": "1 numaralı aracın öncelikle geçmesi",
+  "B": "1 numaralı aracın hızını artırarak kavşağa girmesi\n",
+  "C": "1 numaralı aracın 2 ve 3 numaralı araçların geçmesini beklemesi\n",
+  "D": "3 numaralı aracın 2 numaralı aracı ikaz ederek durdurması",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEglwJrmLvlwm30JN6Sa3BHHD3MXRelxfkzFATr_WAV1j86L6UhPD5N0nPWOU6VK6U4hPsWOxCVVw581ZjlzDPJ1gljoK1USSEILei4tPtt3Qs7qWHSJ41un6N0I94ZsPyJCcdNvO-hmKjo9H5rhw20TW9elqyKk2DRJwZgz_ycxhvD-46oS31lCCyH0YX-o\/s1600\/Trafik%20Levhalar%C4%B1%20%2821%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "1 numaralı aracın 2 ve 3 numaralı araçların geçmesini beklemesi\n"
+ },
+ {
+  "Question": "Şekilde görülen kontrolsüz kavşakta, ilk geçiş hakkını hangi araç kullanmalıdır?\n",
+  "A": "Otobüs\n",
+  "B": "Traktör",
+  "C": "At arabası\n",
+  "D": "İş makinesi\n",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgKMKwkbpPSr0LO2jvM-_5X1cZbCbkdR_guQuPr0lLDUXUxLG4pBxdIYwqVgzJ5VZArstHAqKSQqzMsu85AC4OXo_w4qylCNnurVBfEzBogYYWpjliIXPauhG-t3jkz4uNey9XwMQCsaHlYiK-Cd2bJbMfdwl5nsuiTTwXxEWt2AP-o88fezx8r1iXW3NF-\/s1600\/Trafik%20Levhalar%C4%B1%20%2822%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "Otobüs\n"
+ }
+]

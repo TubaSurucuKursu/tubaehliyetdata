@@ -1,0 +1,92 @@
+[
+ {
+  "Question": "Aşağıdaki araçlardan hangisinde takograf bulundurulması zorunludur?\n",
+  "A": "Otomobil\n",
+  "B": "Traktör\n",
+  "C": "Motosiklet\n",
+  "D": "Otobüs",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Otobüs"
+ },
+ {
+  "Question": "Ticari amaçla yolcu taşımacılığı yapan ve taşıma kapasitesi şoförü dahil 9 kişiyi geçen araçların şoförlerinin sürekli olarak 4,5 saatlik araç kullanma süresi sonunda, eğer istirahate çekilmiyorlar ise en az kaç dakika mola almaları mecburidir?\n",
+  "A": 15,
+  "B": "25\n",
+  "C": 35,
+  "D": 45,
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": 45
+ },
+ {
+  "Question": "Ticari amaçla yük taşımacılığı yapan ve azami ağırlığı 3,5 tonu geçen araçların şoförleri ile ticari amaçla yolcu taşımacılığı yapan ve taşıma kapasitesi şoförü dahil 9 kişiyi geçen araçların şoförlerinin, 24 saatlik herhangi bir süre içinde devamlı olarak kaç saatten fazla araç sürmeleri yasaktır?\n",
+  "A": 1.5,
+  "B": "2,5\n",
+  "C": "3,5\n",
+  "D": 4.5,
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": 4.5
+ },
+ {
+  "Question": "Kanlarındaki alkol miktarı kaç promilin üzerinde olan hususi otomobil sürücülerinin kara yolunda araç sürmesi yasaktır?\n",
+  "A": "0,20\n",
+  "B": "0,30\n",
+  "C": "0,40\n",
+  "D": "0.50",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "0.50"
+ },
+ {
+  "Question": "\nKanlarındaki alkol miktarı - - - - promilin üzerinde olan hususi otomobil sürücülerinin kara yolunda araç sürmesi yasaktır.\n\nVerilen ifadede boş bırakılan yere aşağıdakilerden hangisi yazılmalıdır?",
+  "A": "0,20\n",
+  "B": "0,30\n",
+  "C": "0,40\n",
+  "D": "0.50",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "0.50"
+ },
+ {
+  "Question": "I.İdari para cezası verilir.\n\nII.Kara yolunda araç sürmesine izin verilir.\n\nIII.Sürücü belgesi 5 yıl süreyle geçici olarak geri alınır.\n\nTrafik kuruluşunca, uyuşturucu veya uyarıcı madde kullandığı tespit edilen sürücüye yukarıda verilenlerden hangileri uygulanır?",
+  "A": "Yalnız I\n",
+  "B": "I ve II\n",
+  "C": "I ve III\n",
+  "D": "I , II ve III",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "I ve III\n"
+ },
+ {
+  "Question": "Alkolün beyindeki karar verme ve frenleme yeteneğini bozması, özellikle vücudumuzdaki hangi sistem üzerinde etkili olduğunu gösterir?\n",
+  "A": "Hareket sistemi\n",
+  "B": "Sindirim sistemi\n",
+  "C": "Dolaşım sistemi\n",
+  "D": "Merkezi sinir sistemi",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Merkezi sinir sistemi"
+ },
+ {
+  "Question": "Ticari amaçla yük taşımacılığı yapan bir şoförün aşağıdaki araçlardan hangisini, 24 saatlik herhangi bir süre içinde, toplam olarak 9 ve devamlı olarak 4,5 saatten fazla sürmesi yasaktır?\n",
+  "A": "A)",
+  "B": "B)",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgOOmLJtjLpyhgJchHYZ8R0AHTD78J0lbsCFQnZK3oW9A42Ld1syeB9awHfzGr8AW9IvFVEzjtpZ74Bh5ap6-5IYtT77jC-_MeHnawTUGAC1k4WDGdEmb1DDxZdKkg3uGXRjfwesU-gQqMoowkvyZzuGko-_eRvMUqaaIYgjdEqJsaCPFge7olA2QFUmIw0\/s1600\/Trafik%20Levhalar%C4%B1%288%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "C)"
+ },
+ {
+  "Question": "Ticari amaçla yük taşımacılığı yapan ve azami ağırlığı 3,5 tonu geçen araçların şoförleri ile ticari amaçla yolcu taşımacılığı yapan ve taşıma kapasitesi şoförü dahil 9 kişiyi geçen araçların şoförlerinin, 24 saatlik herhangi bir süre içinde toplam olarak kaç saatten fazla araç sürmeleri yasaktır?\n",
+  "A": 6,
+  "B": 7,
+  "C": 8,
+  "D": 9,
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": 9
+ }
+]

@@ -1,0 +1,202 @@
+[
+ {
+  "Question": "Kamu hizmeti yapan yolcu taşıtlarının yolcu veya hizmetlileri bindirmeleri, indirmeleri veya duraklamaları için yatay ve düşey işaretlerle belirlenmiş yere ne ad verilir?\n",
+  "A": "Garaj\n",
+  "B": "Durak\n",
+  "C": "Otopark",
+  "D": "Park yeri",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Durak\n"
+ },
+ {
+  "Question": "Yaya yolu ayrılmamış kara yolunda, taşıt yolu kenarı ile şev başı veya hendek iç üst kenarı arasında kalan ve olağan olarak yayaların ve hayvanların kullanacağı, zorunlu hâllerde de araçların faydalanabileceği bölüme ne denir?\n",
+  "A": "Banket\n",
+  "B": "Şerit\n",
+  "C": "Platform\n",
+  "D": "Kavşak ortak alanı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Banket\n"
+ },
+ {
+  "Question": "Trafik zabıtası veya yetkililerce Kanunda ve yönetmelikte belirtilen hâllerde araçla ilgili belgelerin alınması ve aracın belirli bir yere çekilerek trafikten alıkonulmasına ne denir?\n",
+  "A": "Trafik suçu\n",
+  "B": "Trafik terörü\n",
+  "C": "Trafik kusuru\n",
+  "D": "Trafikten men",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Trafikten men"
+ },
+ {
+  "Question": "Bir aracın güvenle taşıyabileceği en çok yük ağırlığına veya yolcu ve hizmetli sayısına ne denir?\n",
+  "A": "Gabari\n",
+  "B": "Taşıma sınırı\n",
+  "C": "Dingil ağırlığı\n",
+  "D": "Azami ağırlık",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Taşıma sınırı\n"
+ },
+ {
+  "Question": "Özel amaçla insan veya eşya taşımak için imal edilmiş olan motorlu araçlara özel amaçlı taşıt denir.\n\nBuna göre aşağıdakilerden hangisi özel amaçlı taşıttır?",
+  "A": "Otobüs\n",
+  "B": "Kamyon\n",
+  "C": "Ambulans\n",
+  "D": "Otomobil",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Ambulans\n"
+ },
+ {
+  "Question": "Yayaların ve araç kullananların diğer yaya ve araç kullananlara göre yolu kullanmak sırasındaki önceliğine ne ad verilir?\n",
+  "A": "Okul geçidi\n",
+  "B": "Geçiş hakkı\n",
+  "C": "Yaya geçidi\n",
+  "D": "Geçiş üstünlüğü",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Geçiş hakkı\n"
+ },
+ {
+  "Question": "Araçların niteliklerini tespit ve kontrol edebilecek cihaz ve personel bulunan, teknik kontrolü yapılan yerlere ne ad verilir?\n",
+  "A": "Muayene istasyonu\n",
+  "B": "Akaryakıt istasyonu\n",
+  "C": "Araç tartı istasyonu\n",
+  "D": "Servis istasyonu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Muayene istasyonu\n"
+ },
+ {
+  "Question": "Araçların bir mülke girip çıkması için yapılmış olan yolun, kara yoluna bağlanan ve kara yolu sınır çizgisi içinde kalan kısmına ne ad verilir?\n",
+  "A": "Şerit\n",
+  "B": "Banket\n",
+  "C": "Geçiş yolu\n",
+  "D": "Bağlantı yolu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Geçiş yolu\n"
+ },
+ {
+  "Question": "Bir kavşak yakınında kara yolu taşıt yollarının birbirine bağlanmasını sağlayan, kavşak alanı dışında kalan ve bir yönlü trafiğe ayrılmış olan kara yolu kısmına ne ad verilir?\n",
+  "A": "Banket\n",
+  "B": "Ana yol\n",
+  "C": "Geçiş yolu\n",
+  "D": "Bağlantı yolu",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Bağlantı yolu"
+ },
+ {
+  "Question": "Kara yolu ile demir yolunun aynı seviyede kesiştiği bariyerli veya bariyersiz geçitlere ne ad verilir?\n",
+  "A": "Okul geçidi\n",
+  "B": "Yaya geçidi\n",
+  "C": "Hemzemin geçit\n",
+  "D": "Rampalı geçit",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Hemzemin geçit\n"
+ },
+ {
+  "Question": "Sürücüsü dahil oturma yeri on yediyi aşmayan otobüslere ne ad verilir?\n",
+  "A": "Minibüs\n",
+  "B": "Tramvay\n",
+  "C": "Kamyonet",
+  "D": "Arazi taşıtı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Minibüs\n"
+ },
+ {
+  "Question": "Kara yolunda bir birim olarak seyretmek üzere birbirine bağlanmış, en çok iki römorktan oluşan araçlara ne ad verilir?\n",
+  "A": "Arazi taşıtı\n",
+  "B": "Taşıt katarı\n",
+  "C": "Kamp taşıtı\n",
+  "D": "Umum servis aracı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Taşıt katarı\n"
+ },
+ {
+  "Question": "Araçların durma ve duraklama halleri dışında, genelde uzun süreli olarak bekletilmek üzere bırakılmasına ne ad verilir?\n",
+  "A": "Park etme\n",
+  "B": "İşaretleme\n",
+  "C": "Trafik kazası\n",
+  "D": "Trafikten men",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Park etme\n"
+ },
+ {
+  "Question": "Kara yolu üzerinde hareket hâlinde olan bir veya birden fazla aracın karıştığı ölüm, yaralanma veya zararla sonuçlanan olaylara ne ad verilir?\n",
+  "A": "Kayıp\n",
+  "B": "Hasar\n",
+  "C": "Tahribat\n",
+  "D": "Trafik kazası",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Trafik kazası"
+ },
+ {
+  "Question": "Kara yolu aşağıdakilerin hangisinde doğru tanımlanmıştır?\n",
+  "A": "Trafik için hayvanların ve araçların yararlandığı alanlardır.\n",
+  "B": "Trafik için kamunun yararlanmasına açık olan arazi şeridi, köprüler ve alanlardır.\n",
+  "C": "Trafik için araçların yararlanmasına uygun şeritlerdir.\n",
+  "D": "Trafik için yapılmış özel amaçlı arazi parçalarıdır.",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Trafik için kamunun yararlanmasına açık olan arazi şeridi, köprüler ve alanlardır.\n"
+ },
+ {
+  "Question": "Şekildeki araçların seyrettiği taşıt yolunun çizgilerle ayrılmış her bir bölümüne ne ad verilir?\n",
+  "A": "Tali yol\n",
+  "B": "Şerit\n",
+  "C": "Bölünmüş yol\n",
+  "D": "İki yönlü yol",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgY7xhjH1Zf9yweEKN7D56wVoHbzEsVBa-j82b-mJOENFkNOl0ka3ub9C5qtsICtzKv_gbBR2uvwB3HMDt5A-Y4YJ7HtnzhBdX-MK1uxDNXwyu5nm-I97mKkunxDcK5TdY516bXONPWZ4DVKMMZ2T-N4a2nKXKMTXbgnc3N9NjVN_LgkXZBuZeaMWEvWEal\/s1600\/Trafik%20Levhalar%C4%B1-min.jpg",
+  "Explaination": 1,
+  "Answer": "Şerit\n"
+ },
+ {
+  "Question": "Şekle göre hangi numaralı yollar tali yoldur?\n",
+  "A": "1 - 2\n",
+  "B": "1 - 3\n",
+  "C": "2 - 4\n",
+  "D": "3 ve 4",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEiACho9foW1VwJf_rDSB2gN_eW4Dc0J2yVAKGe96eqsDnOtGzMRtMzGKA-JQZHO7gVbEAviC2_4scMYXjs1SEdkbknFHNCFkK-lhVC8HnN5gGvWC54mKz1KAzKNMevcXmR_s5Lj3J0jScQYZDXIjykx_G1rYndFgPIwDhacAcKaciwZPt_P5PIIfaG-yVg_\/s1600\/Trafik%20Levhalar%C4%B1%281%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "1 - 3\n"
+ },
+ {
+  "Question": "Aşağıdakilerden hangisi bölünmüş kara yoludur?\n",
+  "A": "A)\n",
+  "B": "B)\n",
+  "C": "C)",
+  "D": "D)",
+  "Image": "https:\/\/blogger.googleusercontent.com\/img\/b\/R29vZ2xl\/AVvXsEgfYC-H0-mePMBEfO3ltIKpLMUQtdKPK5Z6OKzPJeMH2qMrxERxBjwWJNeZiwNM8dPHKszUeYR2yGsKie9Me6Q6YKS5Np27PJl5Jln9wegMV0J0IQNxZGhem-ntVKhCUjnKB0H9RAoDvlDLuD288qvEdmW5f_vAJXjyVsDAPB6rTpdwlPjS-UJFTVFRZduQ\/s1600\/Trafik%20Levhalar%C4%B1%282%29-min.jpg",
+  "Explaination": 1,
+  "Answer": "D)"
+ },
+ {
+  "Question": "Kara yollarında kullanılabilen motorlu, motorsuz ve özel amaçlı taşıtlar ile iş makineleri ve lastik tekerlekli traktörlerin genel adı aşağıdakilerden hangisidir?\n",
+  "A": "Araç",
+  "B": "Ticari taşıt\n",
+  "C": "Arazi taşıtı\n",
+  "D": "Taşıt katarı",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Araç"
+ },
+ {
+  "Question": "Kara yolunun genel olarak taşıt trafiğince kullanılan kısmına ne ad verilir?\n",
+  "A": "Banket\n",
+  "B": "Terminal\n",
+  "C": "Hemzemin geçit\n",
+  "D": "Taşıt yolu (Kaplama)\n",
+  "Image": 1,
+  "Explaination": 1,
+  "Answer": "Taşıt yolu (Kaplama)\n"
+ }
+]
